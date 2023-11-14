@@ -1,0 +1,1429 @@
+2023-11-14 13:21:00,564: root: INFO: Trend : Executing the initialize lifecycle method
+2023-11-14 13:21:04,856: root: INFO: Current backtesting datetime 2022-04-18 08:30:00-04:00
+2023-11-14 13:21:04,858: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:04,859: root: INFO: Current backtesting datetime 2022-04-18 09:30:00-04:00
+2023-11-14 13:21:04,860: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:04,863: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:04[0m
+2023-11-14 13:21:04,863: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:04[0m
+2023-11-14 13:21:04,867: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:04,867: root: INFO: Current backtesting datetime 2022-04-19 09:30:00-04:00
+2023-11-14 13:21:04,870: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:04[0m
+2023-11-14 13:21:04,871: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:04[0m
+2023-11-14 13:21:04,874: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:04,875: root: INFO: Current backtesting datetime 2022-04-20 09:30:00-04:00
+2023-11-14 13:21:04,878: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:04[0m
+2023-11-14 13:21:04,879: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:04[0m
+2023-11-14 13:21:04,883: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:04,883: root: INFO: Current backtesting datetime 2022-04-21 09:30:00-04:00
+2023-11-14 13:21:04,885: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:04[0m
+2023-11-14 13:21:04,885: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:04[0m
+2023-11-14 13:21:04,888: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:04,889: root: INFO: Current backtesting datetime 2022-04-22 09:30:00-04:00
+2023-11-14 13:21:04,891: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:04[0m
+2023-11-14 13:21:04,891: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:04[0m
+2023-11-14 13:21:04,895: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:04,896: root: INFO: Current backtesting datetime 2022-04-23 09:30:00-04:00
+2023-11-14 13:21:04,898: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:04,905: root: INFO: Current backtesting datetime 2022-04-23 09:25:00-04:00
+2023-11-14 13:21:04,909: root: INFO: Current backtesting datetime 2022-04-23 09:25:00-04:00
+2023-11-14 13:21:04,910: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:04,913: root: INFO: Current backtesting datetime 2022-04-25 08:30:00-04:00
+2023-11-14 13:21:04,916: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:04,919: root: INFO: Current backtesting datetime 2022-04-25 09:30:00-04:00
+2023-11-14 13:21:04,919: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:04,923: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:04[0m
+2023-11-14 13:21:04,923: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:04[0m
+2023-11-14 13:21:04,926: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:04,927: root: INFO: Current backtesting datetime 2022-04-26 09:30:00-04:00
+2023-11-14 13:21:04,930: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:04[0m
+2023-11-14 13:21:04,930: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:04[0m
+2023-11-14 13:21:04,933: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:04,933: root: INFO: Current backtesting datetime 2022-04-27 09:30:00-04:00
+2023-11-14 13:21:04,936: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:04[0m
+2023-11-14 13:21:04,936: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:04[0m
+2023-11-14 13:21:04,938: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:04,939: root: INFO: Current backtesting datetime 2022-04-28 09:30:00-04:00
+2023-11-14 13:21:04,941: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:04[0m
+2023-11-14 13:21:04,941: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:04[0m
+2023-11-14 13:21:04,945: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:04,946: root: INFO: Current backtesting datetime 2022-04-29 09:30:00-04:00
+2023-11-14 13:21:04,948: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:04[0m
+2023-11-14 13:21:04,948: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:04[0m
+2023-11-14 13:21:04,952: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:04,952: root: INFO: Current backtesting datetime 2022-04-30 09:30:00-04:00
+2023-11-14 13:21:04,954: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:04,959: root: INFO: Current backtesting datetime 2022-04-30 09:25:00-04:00
+2023-11-14 13:21:04,966: root: INFO: Current backtesting datetime 2022-04-30 09:25:00-04:00
+2023-11-14 13:21:04,966: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:04,969: root: INFO: Current backtesting datetime 2022-05-02 08:30:00-04:00
+2023-11-14 13:21:04,972: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:04,978: root: INFO: Current backtesting datetime 2022-05-02 09:30:00-04:00
+2023-11-14 13:21:04,979: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:04,983: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:04[0m
+2023-11-14 13:21:04,987: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:04[0m
+2023-11-14 13:21:04,989: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:04,990: root: INFO: Current backtesting datetime 2022-05-03 09:30:00-04:00
+2023-11-14 13:21:04,992: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:04[0m
+2023-11-14 13:21:04,992: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:04[0m
+2023-11-14 13:21:04,996: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:04,997: root: INFO: Current backtesting datetime 2022-05-04 09:30:00-04:00
+2023-11-14 13:21:05,000: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:04[0m
+2023-11-14 13:21:05,000: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,006: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,006: root: INFO: Current backtesting datetime 2022-05-05 09:30:00-04:00
+2023-11-14 13:21:05,009: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,010: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,018: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,018: root: INFO: Current backtesting datetime 2022-05-06 09:30:00-04:00
+2023-11-14 13:21:05,020: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,021: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,029: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,030: root: INFO: Current backtesting datetime 2022-05-07 09:30:00-04:00
+2023-11-14 13:21:05,032: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:05,038: root: INFO: Current backtesting datetime 2022-05-07 09:25:00-04:00
+2023-11-14 13:21:05,042: root: INFO: Current backtesting datetime 2022-05-07 09:25:00-04:00
+2023-11-14 13:21:05,044: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:05,049: root: INFO: Current backtesting datetime 2022-05-09 08:30:00-04:00
+2023-11-14 13:21:05,052: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:05,055: root: INFO: Current backtesting datetime 2022-05-09 09:30:00-04:00
+2023-11-14 13:21:05,055: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:05,059: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,060: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,063: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,064: root: INFO: Current backtesting datetime 2022-05-10 09:30:00-04:00
+2023-11-14 13:21:05,066: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,066: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,070: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,070: root: INFO: Current backtesting datetime 2022-05-11 09:30:00-04:00
+2023-11-14 13:21:05,072: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,073: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,075: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,076: root: INFO: Current backtesting datetime 2022-05-12 09:30:00-04:00
+2023-11-14 13:21:05,079: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,080: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,083: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,083: root: INFO: Current backtesting datetime 2022-05-13 09:30:00-04:00
+2023-11-14 13:21:05,085: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,086: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,088: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,088: root: INFO: Current backtesting datetime 2022-05-14 09:30:00-04:00
+2023-11-14 13:21:05,091: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:05,098: root: INFO: Current backtesting datetime 2022-05-14 09:25:00-04:00
+2023-11-14 13:21:05,102: root: INFO: Current backtesting datetime 2022-05-14 09:25:00-04:00
+2023-11-14 13:21:05,103: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:05,106: root: INFO: Current backtesting datetime 2022-05-16 08:30:00-04:00
+2023-11-14 13:21:05,108: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:05,112: root: INFO: Current backtesting datetime 2022-05-16 09:30:00-04:00
+2023-11-14 13:21:05,112: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:05,118: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,118: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,121: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,121: root: INFO: Current backtesting datetime 2022-05-17 09:30:00-04:00
+2023-11-14 13:21:05,124: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,124: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,127: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,127: root: INFO: Current backtesting datetime 2022-05-18 09:30:00-04:00
+2023-11-14 13:21:05,130: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,130: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,133: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,133: root: INFO: Current backtesting datetime 2022-05-19 09:30:00-04:00
+2023-11-14 13:21:05,136: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,136: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,138: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,139: root: INFO: Current backtesting datetime 2022-05-20 09:30:00-04:00
+2023-11-14 13:21:05,141: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,141: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,144: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,145: root: INFO: Current backtesting datetime 2022-05-21 09:30:00-04:00
+2023-11-14 13:21:05,148: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:05,154: root: INFO: Current backtesting datetime 2022-05-21 09:25:00-04:00
+2023-11-14 13:21:05,158: root: INFO: Current backtesting datetime 2022-05-21 09:25:00-04:00
+2023-11-14 13:21:05,159: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:05,163: root: INFO: Current backtesting datetime 2022-05-23 08:30:00-04:00
+2023-11-14 13:21:05,166: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:05,169: root: INFO: Current backtesting datetime 2022-05-23 09:30:00-04:00
+2023-11-14 13:21:05,169: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:05,173: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,173: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,175: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,176: root: INFO: Current backtesting datetime 2022-05-24 09:30:00-04:00
+2023-11-14 13:21:05,179: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,180: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,183: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,183: root: INFO: Current backtesting datetime 2022-05-25 09:30:00-04:00
+2023-11-14 13:21:05,186: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,186: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,189: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,190: root: INFO: Current backtesting datetime 2022-05-26 09:30:00-04:00
+2023-11-14 13:21:05,192: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,193: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,197: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,198: root: INFO: Current backtesting datetime 2022-05-27 09:30:00-04:00
+2023-11-14 13:21:05,200: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,200: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,202: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,202: root: INFO: Current backtesting datetime 2022-05-28 09:30:00-04:00
+2023-11-14 13:21:05,204: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:05,207: root: INFO: Current backtesting datetime 2022-05-28 09:25:00-04:00
+2023-11-14 13:21:05,213: root: INFO: Current backtesting datetime 2022-05-28 09:25:00-04:00
+2023-11-14 13:21:05,214: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:05,217: root: INFO: Current backtesting datetime 2022-05-31 08:30:00-04:00
+2023-11-14 13:21:05,218: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:05,220: root: INFO: Current backtesting datetime 2022-05-31 09:30:00-04:00
+2023-11-14 13:21:05,221: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:05,223: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,223: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,225: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,225: root: INFO: Current backtesting datetime 2022-06-01 09:30:00-04:00
+2023-11-14 13:21:05,228: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,228: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,231: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,231: root: INFO: Current backtesting datetime 2022-06-02 09:30:00-04:00
+2023-11-14 13:21:05,234: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,234: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,237: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,237: root: INFO: Current backtesting datetime 2022-06-03 09:30:00-04:00
+2023-11-14 13:21:05,239: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,240: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,243: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,243: root: INFO: Current backtesting datetime 2022-06-04 09:30:00-04:00
+2023-11-14 13:21:05,246: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:05,251: root: INFO: Current backtesting datetime 2022-06-04 09:25:00-04:00
+2023-11-14 13:21:05,255: root: INFO: Current backtesting datetime 2022-06-04 09:25:00-04:00
+2023-11-14 13:21:05,255: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:05,258: root: INFO: Current backtesting datetime 2022-06-06 08:30:00-04:00
+2023-11-14 13:21:05,260: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:05,265: root: INFO: Current backtesting datetime 2022-06-06 09:30:00-04:00
+2023-11-14 13:21:05,265: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:05,269: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,270: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,272: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,272: root: INFO: Current backtesting datetime 2022-06-07 09:30:00-04:00
+2023-11-14 13:21:05,273: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,273: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,275: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,276: root: INFO: Current backtesting datetime 2022-06-08 09:30:00-04:00
+2023-11-14 13:21:05,279: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,279: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,282: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,283: root: INFO: Current backtesting datetime 2022-06-09 09:30:00-04:00
+2023-11-14 13:21:05,285: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,285: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,287: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,287: root: INFO: Current backtesting datetime 2022-06-10 09:30:00-04:00
+2023-11-14 13:21:05,289: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,290: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,292: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,292: root: INFO: Current backtesting datetime 2022-06-11 09:30:00-04:00
+2023-11-14 13:21:05,295: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:05,301: root: INFO: Current backtesting datetime 2022-06-11 09:25:00-04:00
+2023-11-14 13:21:05,303: root: INFO: Current backtesting datetime 2022-06-11 09:25:00-04:00
+2023-11-14 13:21:05,303: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:05,306: root: INFO: Current backtesting datetime 2022-06-13 08:30:00-04:00
+2023-11-14 13:21:05,308: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:05,311: root: INFO: Current backtesting datetime 2022-06-13 09:30:00-04:00
+2023-11-14 13:21:05,311: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:05,316: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,316: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,318: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,319: root: INFO: Current backtesting datetime 2022-06-14 09:30:00-04:00
+2023-11-14 13:21:05,321: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,321: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,322: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,322: root: INFO: Current backtesting datetime 2022-06-15 09:30:00-04:00
+2023-11-14 13:21:05,324: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,324: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,327: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,327: root: INFO: Current backtesting datetime 2022-06-16 09:30:00-04:00
+2023-11-14 13:21:05,330: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,330: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,333: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,334: root: INFO: Current backtesting datetime 2022-06-17 09:30:00-04:00
+2023-11-14 13:21:05,335: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,336: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,337: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,337: root: INFO: Current backtesting datetime 2022-06-18 09:30:00-04:00
+2023-11-14 13:21:05,339: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:05,345: root: INFO: Current backtesting datetime 2022-06-18 09:25:00-04:00
+2023-11-14 13:21:05,349: root: INFO: Current backtesting datetime 2022-06-18 09:25:00-04:00
+2023-11-14 13:21:05,349: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:05,352: root: INFO: Current backtesting datetime 2022-06-21 08:30:00-04:00
+2023-11-14 13:21:05,354: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:05,355: root: INFO: Current backtesting datetime 2022-06-21 09:30:00-04:00
+2023-11-14 13:21:05,355: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:05,358: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,359: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,362: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,363: root: INFO: Current backtesting datetime 2022-06-22 09:30:00-04:00
+2023-11-14 13:21:05,365: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,366: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,367: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,368: root: INFO: Current backtesting datetime 2022-06-23 09:30:00-04:00
+2023-11-14 13:21:05,370: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,370: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,372: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,372: root: INFO: Current backtesting datetime 2022-06-24 09:30:00-04:00
+2023-11-14 13:21:05,373: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,373: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,376: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,376: root: INFO: Current backtesting datetime 2022-06-25 09:30:00-04:00
+2023-11-14 13:21:05,379: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:05,384: root: INFO: Current backtesting datetime 2022-06-25 09:25:00-04:00
+2023-11-14 13:21:05,387: root: INFO: Current backtesting datetime 2022-06-25 09:25:00-04:00
+2023-11-14 13:21:05,387: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:05,390: root: INFO: Current backtesting datetime 2022-06-27 08:30:00-04:00
+2023-11-14 13:21:05,392: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:05,395: root: INFO: Current backtesting datetime 2022-06-27 09:30:00-04:00
+2023-11-14 13:21:05,396: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:05,400: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,400: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,403: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,404: root: INFO: Current backtesting datetime 2022-06-28 09:30:00-04:00
+2023-11-14 13:21:05,406: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,406: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,409: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,410: root: INFO: Current backtesting datetime 2022-06-29 09:30:00-04:00
+2023-11-14 13:21:05,412: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,413: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,416: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,417: root: INFO: Current backtesting datetime 2022-06-30 09:30:00-04:00
+2023-11-14 13:21:05,418: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,418: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,420: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,421: root: INFO: Current backtesting datetime 2022-07-01 09:30:00-04:00
+2023-11-14 13:21:05,423: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,423: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,426: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,427: root: INFO: Current backtesting datetime 2022-07-02 09:30:00-04:00
+2023-11-14 13:21:05,430: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:05,436: root: INFO: Current backtesting datetime 2022-07-02 09:25:00-04:00
+2023-11-14 13:21:05,441: root: INFO: Current backtesting datetime 2022-07-02 09:25:00-04:00
+2023-11-14 13:21:05,441: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:05,445: root: INFO: Current backtesting datetime 2022-07-05 08:30:00-04:00
+2023-11-14 13:21:05,448: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:05,451: root: INFO: Current backtesting datetime 2022-07-05 09:30:00-04:00
+2023-11-14 13:21:05,451: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:05,455: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,455: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,458: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,458: root: INFO: Current backtesting datetime 2022-07-06 09:30:00-04:00
+2023-11-14 13:21:05,461: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,461: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,465: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,465: root: INFO: Current backtesting datetime 2022-07-07 09:30:00-04:00
+2023-11-14 13:21:05,467: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,468: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,470: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,471: root: INFO: Current backtesting datetime 2022-07-08 09:30:00-04:00
+2023-11-14 13:21:05,472: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,473: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,475: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,475: root: INFO: Current backtesting datetime 2022-07-09 09:30:00-04:00
+2023-11-14 13:21:05,477: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:05,483: root: INFO: Current backtesting datetime 2022-07-09 09:25:00-04:00
+2023-11-14 13:21:05,485: root: INFO: Current backtesting datetime 2022-07-09 09:25:00-04:00
+2023-11-14 13:21:05,486: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:05,488: root: INFO: Current backtesting datetime 2022-07-11 08:30:00-04:00
+2023-11-14 13:21:05,490: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:05,491: root: INFO: Current backtesting datetime 2022-07-11 09:30:00-04:00
+2023-11-14 13:21:05,492: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:05,498: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,498: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,501: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,501: root: INFO: Current backtesting datetime 2022-07-12 09:30:00-04:00
+2023-11-14 13:21:05,503: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,504: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,505: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,505: root: INFO: Current backtesting datetime 2022-07-13 09:30:00-04:00
+2023-11-14 13:21:05,507: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,507: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,510: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,510: root: INFO: Current backtesting datetime 2022-07-14 09:30:00-04:00
+2023-11-14 13:21:05,513: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,514: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,517: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,517: root: INFO: Current backtesting datetime 2022-07-15 09:30:00-04:00
+2023-11-14 13:21:05,519: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,519: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,520: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,520: root: INFO: Current backtesting datetime 2022-07-16 09:30:00-04:00
+2023-11-14 13:21:05,522: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:05,526: root: INFO: Current backtesting datetime 2022-07-16 09:25:00-04:00
+2023-11-14 13:21:05,532: root: INFO: Current backtesting datetime 2022-07-16 09:25:00-04:00
+2023-11-14 13:21:05,532: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:05,535: root: INFO: Current backtesting datetime 2022-07-18 08:30:00-04:00
+2023-11-14 13:21:05,537: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:05,539: root: INFO: Current backtesting datetime 2022-07-18 09:30:00-04:00
+2023-11-14 13:21:05,539: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:05,543: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,543: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,547: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,547: root: INFO: Current backtesting datetime 2022-07-19 09:30:00-04:00
+2023-11-14 13:21:05,550: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,550: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,552: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,553: root: INFO: Current backtesting datetime 2022-07-20 09:30:00-04:00
+2023-11-14 13:21:05,555: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,555: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,557: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,557: root: INFO: Current backtesting datetime 2022-07-21 09:30:00-04:00
+2023-11-14 13:21:05,559: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,560: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,563: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,564: root: INFO: Current backtesting datetime 2022-07-22 09:30:00-04:00
+2023-11-14 13:21:05,566: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,566: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,569: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,569: root: INFO: Current backtesting datetime 2022-07-23 09:30:00-04:00
+2023-11-14 13:21:05,571: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:05,575: root: INFO: Current backtesting datetime 2022-07-23 09:25:00-04:00
+2023-11-14 13:21:05,581: root: INFO: Current backtesting datetime 2022-07-23 09:25:00-04:00
+2023-11-14 13:21:05,581: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:05,584: root: INFO: Current backtesting datetime 2022-07-25 08:30:00-04:00
+2023-11-14 13:21:05,586: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:05,588: root: INFO: Current backtesting datetime 2022-07-25 09:30:00-04:00
+2023-11-14 13:21:05,589: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:05,591: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,591: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,594: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,594: root: INFO: Current backtesting datetime 2022-07-26 09:30:00-04:00
+2023-11-14 13:21:05,597: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,597: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,600: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,601: root: INFO: Current backtesting datetime 2022-07-27 09:30:00-04:00
+2023-11-14 13:21:05,603: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,603: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,605: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,605: root: INFO: Current backtesting datetime 2022-07-28 09:30:00-04:00
+2023-11-14 13:21:05,607: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,608: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,610: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,611: root: INFO: Current backtesting datetime 2022-07-29 09:30:00-04:00
+2023-11-14 13:21:05,613: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,614: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,616: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,617: root: INFO: Current backtesting datetime 2022-07-30 09:30:00-04:00
+2023-11-14 13:21:05,618: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:05,621: root: INFO: Current backtesting datetime 2022-07-30 09:25:00-04:00
+2023-11-14 13:21:05,625: root: INFO: Current backtesting datetime 2022-07-30 09:25:00-04:00
+2023-11-14 13:21:05,625: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:05,629: root: INFO: Current backtesting datetime 2022-08-01 08:30:00-04:00
+2023-11-14 13:21:05,631: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:05,634: root: INFO: Current backtesting datetime 2022-08-01 09:30:00-04:00
+2023-11-14 13:21:05,634: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:05,638: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,638: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,641: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,642: root: INFO: Current backtesting datetime 2022-08-02 09:30:00-04:00
+2023-11-14 13:21:05,644: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,645: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,648: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,649: root: INFO: Current backtesting datetime 2022-08-03 09:30:00-04:00
+2023-11-14 13:21:05,650: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,651: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,653: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,653: root: INFO: Current backtesting datetime 2022-08-04 09:30:00-04:00
+2023-11-14 13:21:05,655: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,656: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,657: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,657: root: INFO: Current backtesting datetime 2022-08-05 09:30:00-04:00
+2023-11-14 13:21:05,659: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,659: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,663: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,663: root: INFO: Current backtesting datetime 2022-08-06 09:30:00-04:00
+2023-11-14 13:21:05,665: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:05,671: root: INFO: Current backtesting datetime 2022-08-06 09:25:00-04:00
+2023-11-14 13:21:05,673: root: INFO: Current backtesting datetime 2022-08-06 09:25:00-04:00
+2023-11-14 13:21:05,674: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:05,676: root: INFO: Current backtesting datetime 2022-08-08 08:30:00-04:00
+2023-11-14 13:21:05,679: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:05,682: root: INFO: Current backtesting datetime 2022-08-08 09:30:00-04:00
+2023-11-14 13:21:05,682: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:05,685: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,686: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,688: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,689: root: INFO: Current backtesting datetime 2022-08-09 09:30:00-04:00
+2023-11-14 13:21:05,690: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,691: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,694: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,695: root: INFO: Current backtesting datetime 2022-08-10 09:30:00-04:00
+2023-11-14 13:21:05,697: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,698: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,701: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,701: root: INFO: Current backtesting datetime 2022-08-11 09:30:00-04:00
+2023-11-14 13:21:05,703: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,703: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,705: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,705: root: INFO: Current backtesting datetime 2022-08-12 09:30:00-04:00
+2023-11-14 13:21:05,707: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,708: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,712: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,712: root: INFO: Current backtesting datetime 2022-08-13 09:30:00-04:00
+2023-11-14 13:21:05,714: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:05,719: root: INFO: Current backtesting datetime 2022-08-13 09:25:00-04:00
+2023-11-14 13:21:05,723: root: INFO: Current backtesting datetime 2022-08-13 09:25:00-04:00
+2023-11-14 13:21:05,723: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:05,726: root: INFO: Current backtesting datetime 2022-08-15 08:30:00-04:00
+2023-11-14 13:21:05,729: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:05,732: root: INFO: Current backtesting datetime 2022-08-15 09:30:00-04:00
+2023-11-14 13:21:05,732: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:05,737: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,738: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,740: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,740: root: INFO: Current backtesting datetime 2022-08-16 09:30:00-04:00
+2023-11-14 13:21:05,742: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,742: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,746: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,746: root: INFO: Current backtesting datetime 2022-08-17 09:30:00-04:00
+2023-11-14 13:21:05,749: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,749: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,753: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,753: root: INFO: Current backtesting datetime 2022-08-18 09:30:00-04:00
+2023-11-14 13:21:05,755: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,755: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,758: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,759: root: INFO: Current backtesting datetime 2022-08-19 09:30:00-04:00
+2023-11-14 13:21:05,761: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,762: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,765: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,766: root: INFO: Current backtesting datetime 2022-08-20 09:30:00-04:00
+2023-11-14 13:21:05,768: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:05,774: root: INFO: Current backtesting datetime 2022-08-20 09:25:00-04:00
+2023-11-14 13:21:05,779: root: INFO: Current backtesting datetime 2022-08-20 09:25:00-04:00
+2023-11-14 13:21:05,780: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:05,782: root: INFO: Current backtesting datetime 2022-08-22 08:30:00-04:00
+2023-11-14 13:21:05,785: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:05,788: root: INFO: Current backtesting datetime 2022-08-22 09:30:00-04:00
+2023-11-14 13:21:05,789: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:05,791: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,792: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,795: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,796: root: INFO: Current backtesting datetime 2022-08-23 09:30:00-04:00
+2023-11-14 13:21:05,797: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,798: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,800: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,801: root: INFO: Current backtesting datetime 2022-08-24 09:30:00-04:00
+2023-11-14 13:21:05,803: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,803: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,804: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,805: root: INFO: Current backtesting datetime 2022-08-25 09:30:00-04:00
+2023-11-14 13:21:05,806: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,806: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,809: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,810: root: INFO: Current backtesting datetime 2022-08-26 09:30:00-04:00
+2023-11-14 13:21:05,812: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,813: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,815: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,816: root: INFO: Current backtesting datetime 2022-08-27 09:30:00-04:00
+2023-11-14 13:21:05,818: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:05,821: root: INFO: Current backtesting datetime 2022-08-27 09:25:00-04:00
+2023-11-14 13:21:05,825: root: INFO: Current backtesting datetime 2022-08-27 09:25:00-04:00
+2023-11-14 13:21:05,825: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:05,830: root: INFO: Current backtesting datetime 2022-08-29 08:30:00-04:00
+2023-11-14 13:21:05,831: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:05,834: root: INFO: Current backtesting datetime 2022-08-29 09:30:00-04:00
+2023-11-14 13:21:05,834: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:05,837: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,837: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,838: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,839: root: INFO: Current backtesting datetime 2022-08-30 09:30:00-04:00
+2023-11-14 13:21:05,840: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,840: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,843: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,844: root: INFO: Current backtesting datetime 2022-08-31 09:30:00-04:00
+2023-11-14 13:21:05,847: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,847: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,850: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,851: root: INFO: Current backtesting datetime 2022-09-01 09:30:00-04:00
+2023-11-14 13:21:05,853: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,853: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,855: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,855: root: INFO: Current backtesting datetime 2022-09-02 09:30:00-04:00
+2023-11-14 13:21:05,857: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,857: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,860: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,860: root: INFO: Current backtesting datetime 2022-09-03 09:30:00-04:00
+2023-11-14 13:21:05,863: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:05,868: root: INFO: Current backtesting datetime 2022-09-03 09:25:00-04:00
+2023-11-14 13:21:05,872: root: INFO: Current backtesting datetime 2022-09-03 09:25:00-04:00
+2023-11-14 13:21:05,872: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:05,875: root: INFO: Current backtesting datetime 2022-09-06 08:30:00-04:00
+2023-11-14 13:21:05,878: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:05,882: root: INFO: Current backtesting datetime 2022-09-06 09:30:00-04:00
+2023-11-14 13:21:05,882: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:05,887: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,888: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,891: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,891: root: INFO: Current backtesting datetime 2022-09-07 09:30:00-04:00
+2023-11-14 13:21:05,894: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,895: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,898: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,899: root: INFO: Current backtesting datetime 2022-09-08 09:30:00-04:00
+2023-11-14 13:21:05,901: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,901: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,904: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,904: root: INFO: Current backtesting datetime 2022-09-09 09:30:00-04:00
+2023-11-14 13:21:05,906: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,906: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,908: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,909: root: INFO: Current backtesting datetime 2022-09-10 09:30:00-04:00
+2023-11-14 13:21:05,912: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:05,917: root: INFO: Current backtesting datetime 2022-09-10 09:25:00-04:00
+2023-11-14 13:21:05,921: root: INFO: Current backtesting datetime 2022-09-10 09:25:00-04:00
+2023-11-14 13:21:05,921: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:05,924: root: INFO: Current backtesting datetime 2022-09-12 08:30:00-04:00
+2023-11-14 13:21:05,925: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:05,929: root: INFO: Current backtesting datetime 2022-09-12 09:30:00-04:00
+2023-11-14 13:21:05,929: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:05,934: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,934: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,937: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,937: root: INFO: Current backtesting datetime 2022-09-13 09:30:00-04:00
+2023-11-14 13:21:05,938: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,938: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,939: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,940: root: INFO: Current backtesting datetime 2022-09-14 09:30:00-04:00
+2023-11-14 13:21:05,942: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,942: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,946: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,946: root: INFO: Current backtesting datetime 2022-09-15 09:30:00-04:00
+2023-11-14 13:21:05,948: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,949: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,951: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,952: root: INFO: Current backtesting datetime 2022-09-16 09:30:00-04:00
+2023-11-14 13:21:05,953: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,953: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,956: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,956: root: INFO: Current backtesting datetime 2022-09-17 09:30:00-04:00
+2023-11-14 13:21:05,959: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:05,965: root: INFO: Current backtesting datetime 2022-09-17 09:25:00-04:00
+2023-11-14 13:21:05,969: root: INFO: Current backtesting datetime 2022-09-17 09:25:00-04:00
+2023-11-14 13:21:05,969: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:05,971: root: INFO: Current backtesting datetime 2022-09-19 08:30:00-04:00
+2023-11-14 13:21:05,972: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:05,974: root: INFO: Current backtesting datetime 2022-09-19 09:30:00-04:00
+2023-11-14 13:21:05,974: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:05,979: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,979: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,982: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,983: root: INFO: Current backtesting datetime 2022-09-20 09:30:00-04:00
+2023-11-14 13:21:05,985: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,985: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,986: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,987: root: INFO: Current backtesting datetime 2022-09-21 09:30:00-04:00
+2023-11-14 13:21:05,989: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,989: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,992: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:05,993: root: INFO: Current backtesting datetime 2022-09-22 09:30:00-04:00
+2023-11-14 13:21:05,996: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:05,997: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:05[0m
+2023-11-14 13:21:06,000: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,000: root: INFO: Current backtesting datetime 2022-09-23 09:30:00-04:00
+2023-11-14 13:21:06,002: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,003: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,006: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,006: root: INFO: Current backtesting datetime 2022-09-24 09:30:00-04:00
+2023-11-14 13:21:06,008: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:06,015: root: INFO: Current backtesting datetime 2022-09-24 09:25:00-04:00
+2023-11-14 13:21:06,019: root: INFO: Current backtesting datetime 2022-09-24 09:25:00-04:00
+2023-11-14 13:21:06,020: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:06,021: root: INFO: Current backtesting datetime 2022-09-26 08:30:00-04:00
+2023-11-14 13:21:06,023: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:06,024: root: INFO: Current backtesting datetime 2022-09-26 09:30:00-04:00
+2023-11-14 13:21:06,025: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:06,031: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,051: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,053: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,053: root: INFO: Current backtesting datetime 2022-09-27 09:30:00-04:00
+2023-11-14 13:21:06,056: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,056: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,059: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,060: root: INFO: Current backtesting datetime 2022-09-28 09:30:00-04:00
+2023-11-14 13:21:06,062: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,062: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,066: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,066: root: INFO: Current backtesting datetime 2022-09-29 09:30:00-04:00
+2023-11-14 13:21:06,068: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,069: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,071: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,071: root: INFO: Current backtesting datetime 2022-09-30 09:30:00-04:00
+2023-11-14 13:21:06,073: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,074: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,076: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,077: root: INFO: Current backtesting datetime 2022-10-01 09:30:00-04:00
+2023-11-14 13:21:06,080: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:06,084: root: INFO: Current backtesting datetime 2022-10-01 09:25:00-04:00
+2023-11-14 13:21:06,088: root: INFO: Current backtesting datetime 2022-10-01 09:25:00-04:00
+2023-11-14 13:21:06,088: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:06,089: root: INFO: Current backtesting datetime 2022-10-03 08:30:00-04:00
+2023-11-14 13:21:06,092: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:06,096: root: INFO: Current backtesting datetime 2022-10-03 09:30:00-04:00
+2023-11-14 13:21:06,096: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:06,100: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,101: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,103: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,103: root: INFO: Current backtesting datetime 2022-10-04 09:30:00-04:00
+2023-11-14 13:21:06,105: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,105: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,107: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,108: root: INFO: Current backtesting datetime 2022-10-05 09:30:00-04:00
+2023-11-14 13:21:06,110: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,111: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,114: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,114: root: INFO: Current backtesting datetime 2022-10-06 09:30:00-04:00
+2023-11-14 13:21:06,117: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,117: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,119: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,120: root: INFO: Current backtesting datetime 2022-10-07 09:30:00-04:00
+2023-11-14 13:21:06,122: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,122: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,124: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,124: root: INFO: Current backtesting datetime 2022-10-08 09:30:00-04:00
+2023-11-14 13:21:06,127: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:06,133: root: INFO: Current backtesting datetime 2022-10-08 09:25:00-04:00
+2023-11-14 13:21:06,138: root: INFO: Current backtesting datetime 2022-10-08 09:25:00-04:00
+2023-11-14 13:21:06,138: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:06,141: root: INFO: Current backtesting datetime 2022-10-10 08:30:00-04:00
+2023-11-14 13:21:06,144: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:06,148: root: INFO: Current backtesting datetime 2022-10-10 09:30:00-04:00
+2023-11-14 13:21:06,148: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:06,152: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,153: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,155: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,156: root: INFO: Current backtesting datetime 2022-10-11 09:30:00-04:00
+2023-11-14 13:21:06,158: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,158: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,162: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,162: root: INFO: Current backtesting datetime 2022-10-12 09:30:00-04:00
+2023-11-14 13:21:06,164: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,165: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,169: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,169: root: INFO: Current backtesting datetime 2022-10-13 09:30:00-04:00
+2023-11-14 13:21:06,171: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,171: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,173: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,173: root: INFO: Current backtesting datetime 2022-10-14 09:30:00-04:00
+2023-11-14 13:21:06,175: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,176: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,179: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,180: root: INFO: Current backtesting datetime 2022-10-15 09:30:00-04:00
+2023-11-14 13:21:06,182: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:06,187: root: INFO: Current backtesting datetime 2022-10-15 09:25:00-04:00
+2023-11-14 13:21:06,190: root: INFO: Current backtesting datetime 2022-10-15 09:25:00-04:00
+2023-11-14 13:21:06,190: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:06,194: root: INFO: Current backtesting datetime 2022-10-17 08:30:00-04:00
+2023-11-14 13:21:06,197: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:06,200: root: INFO: Current backtesting datetime 2022-10-17 09:30:00-04:00
+2023-11-14 13:21:06,200: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:06,203: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,203: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,204: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,204: root: INFO: Current backtesting datetime 2022-10-18 09:30:00-04:00
+2023-11-14 13:21:06,206: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,206: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,209: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,209: root: INFO: Current backtesting datetime 2022-10-19 09:30:00-04:00
+2023-11-14 13:21:06,212: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,212: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,215: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,216: root: INFO: Current backtesting datetime 2022-10-20 09:30:00-04:00
+2023-11-14 13:21:06,218: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,218: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,220: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,221: root: INFO: Current backtesting datetime 2022-10-21 09:30:00-04:00
+2023-11-14 13:21:06,223: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,224: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,227: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,227: root: INFO: Current backtesting datetime 2022-10-22 09:30:00-04:00
+2023-11-14 13:21:06,230: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:06,237: root: INFO: Current backtesting datetime 2022-10-22 09:25:00-04:00
+2023-11-14 13:21:06,241: root: INFO: Current backtesting datetime 2022-10-22 09:25:00-04:00
+2023-11-14 13:21:06,241: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:06,245: root: INFO: Current backtesting datetime 2022-10-24 08:30:00-04:00
+2023-11-14 13:21:06,248: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:06,251: root: INFO: Current backtesting datetime 2022-10-24 09:30:00-04:00
+2023-11-14 13:21:06,251: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:06,255: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,255: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,258: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,259: root: INFO: Current backtesting datetime 2022-10-25 09:30:00-04:00
+2023-11-14 13:21:06,262: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,262: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,265: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,266: root: INFO: Current backtesting datetime 2022-10-26 09:30:00-04:00
+2023-11-14 13:21:06,268: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,268: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,271: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,272: root: INFO: Current backtesting datetime 2022-10-27 09:30:00-04:00
+2023-11-14 13:21:06,275: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,275: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,279: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,280: root: INFO: Current backtesting datetime 2022-10-28 09:30:00-04:00
+2023-11-14 13:21:06,282: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,282: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,285: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,286: root: INFO: Current backtesting datetime 2022-10-29 09:30:00-04:00
+2023-11-14 13:21:06,287: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:06,292: root: INFO: Current backtesting datetime 2022-10-29 09:25:00-04:00
+2023-11-14 13:21:06,298: root: INFO: Current backtesting datetime 2022-10-29 09:25:00-04:00
+2023-11-14 13:21:06,298: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:06,301: root: INFO: Current backtesting datetime 2022-10-31 08:30:00-04:00
+2023-11-14 13:21:06,303: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:06,306: root: INFO: Current backtesting datetime 2022-10-31 09:30:00-04:00
+2023-11-14 13:21:06,306: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:06,312: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,312: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,315: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,316: root: INFO: Current backtesting datetime 2022-11-01 09:30:00-04:00
+2023-11-14 13:21:06,319: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,319: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,322: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,323: root: INFO: Current backtesting datetime 2022-11-02 09:30:00-04:00
+2023-11-14 13:21:06,325: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,326: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,331: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,331: root: INFO: Current backtesting datetime 2022-11-03 09:30:00-04:00
+2023-11-14 13:21:06,333: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,334: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,336: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,337: root: INFO: Current backtesting datetime 2022-11-04 09:30:00-04:00
+2023-11-14 13:21:06,339: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,340: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,342: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,344: root: INFO: Current backtesting datetime 2022-11-05 09:30:00-04:00
+2023-11-14 13:21:06,347: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:06,353: root: INFO: Current backtesting datetime 2022-11-05 09:25:00-04:00
+2023-11-14 13:21:06,357: root: INFO: Current backtesting datetime 2022-11-05 09:25:00-04:00
+2023-11-14 13:21:06,357: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:06,442: root: INFO: Current backtesting datetime 2022-11-07 09:30:00-04:00
+2023-11-14 13:21:06,445: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:06,448: root: INFO: Current backtesting datetime 2022-11-07 10:30:00-04:00
+2023-11-14 13:21:06,448: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:06,468: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,468: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,471: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,471: root: INFO: Current backtesting datetime 2022-11-08 10:30:00-04:00
+2023-11-14 13:21:06,473: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,473: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,475: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,476: root: INFO: Current backtesting datetime 2022-11-09 10:30:00-04:00
+2023-11-14 13:21:06,479: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,479: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,482: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,482: root: INFO: Current backtesting datetime 2022-11-10 10:30:00-04:00
+2023-11-14 13:21:06,484: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,485: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,486: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,487: root: INFO: Current backtesting datetime 2022-11-11 10:30:00-04:00
+2023-11-14 13:21:06,488: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,488: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,492: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,493: root: INFO: Current backtesting datetime 2022-11-12 10:30:00-04:00
+2023-11-14 13:21:06,495: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:06,501: root: INFO: Current backtesting datetime 2022-11-12 10:25:00-04:00
+2023-11-14 13:21:06,508: root: INFO: Current backtesting datetime 2022-11-12 10:25:00-04:00
+2023-11-14 13:21:06,508: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:06,512: root: INFO: Current backtesting datetime 2022-11-14 09:30:00-04:00
+2023-11-14 13:21:06,515: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:06,519: root: INFO: Current backtesting datetime 2022-11-14 10:30:00-04:00
+2023-11-14 13:21:06,519: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:06,528: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,528: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,531: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,532: root: INFO: Current backtesting datetime 2022-11-15 10:30:00-04:00
+2023-11-14 13:21:06,535: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,536: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,540: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,540: root: INFO: Current backtesting datetime 2022-11-16 10:30:00-04:00
+2023-11-14 13:21:06,544: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,545: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,548: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,548: root: INFO: Current backtesting datetime 2022-11-17 10:30:00-04:00
+2023-11-14 13:21:06,551: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,552: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,555: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,555: root: INFO: Current backtesting datetime 2022-11-18 10:30:00-04:00
+2023-11-14 13:21:06,557: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,557: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,561: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,562: root: INFO: Current backtesting datetime 2022-11-19 10:30:00-04:00
+2023-11-14 13:21:06,564: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:06,569: root: INFO: Current backtesting datetime 2022-11-19 10:25:00-04:00
+2023-11-14 13:21:06,571: root: INFO: Current backtesting datetime 2022-11-19 10:25:00-04:00
+2023-11-14 13:21:06,571: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:06,573: root: INFO: Current backtesting datetime 2022-11-21 09:30:00-04:00
+2023-11-14 13:21:06,575: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:06,579: root: INFO: Current backtesting datetime 2022-11-21 10:30:00-04:00
+2023-11-14 13:21:06,580: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:06,584: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,584: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,587: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,587: root: INFO: Current backtesting datetime 2022-11-22 10:30:00-04:00
+2023-11-14 13:21:06,589: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,589: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,594: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,594: root: INFO: Current backtesting datetime 2022-11-23 10:30:00-04:00
+2023-11-14 13:21:06,598: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,599: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,602: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,603: root: INFO: Current backtesting datetime 2022-11-24 10:30:00-04:00
+2023-11-14 13:21:06,605: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:06,612: root: INFO: Current backtesting datetime 2022-11-24 10:25:00-04:00
+2023-11-14 13:21:06,619: root: INFO: Current backtesting datetime 2022-11-24 10:25:00-04:00
+2023-11-14 13:21:06,619: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:06,622: root: INFO: Current backtesting datetime 2022-11-25 09:30:00-04:00
+2023-11-14 13:21:06,625: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:06,629: root: INFO: Current backtesting datetime 2022-11-25 10:30:00-04:00
+2023-11-14 13:21:06,630: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:06,634: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,635: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,637: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,638: root: INFO: Current backtesting datetime 2022-11-26 10:30:00-04:00
+2023-11-14 13:21:06,639: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:06,645: root: INFO: Current backtesting datetime 2022-11-26 10:25:00-04:00
+2023-11-14 13:21:06,649: root: INFO: Current backtesting datetime 2022-11-26 10:25:00-04:00
+2023-11-14 13:21:06,649: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:06,652: root: INFO: Current backtesting datetime 2022-11-28 09:30:00-04:00
+2023-11-14 13:21:06,655: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:06,658: root: INFO: Current backtesting datetime 2022-11-28 10:30:00-04:00
+2023-11-14 13:21:06,658: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:06,664: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,664: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,667: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,668: root: INFO: Current backtesting datetime 2022-11-29 10:30:00-04:00
+2023-11-14 13:21:06,669: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,669: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,671: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,672: root: INFO: Current backtesting datetime 2022-11-30 10:30:00-04:00
+2023-11-14 13:21:06,673: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,674: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,678: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,678: root: INFO: Current backtesting datetime 2022-12-01 10:30:00-04:00
+2023-11-14 13:21:06,681: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,681: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,684: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,684: root: INFO: Current backtesting datetime 2022-12-02 10:30:00-04:00
+2023-11-14 13:21:06,686: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,686: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,688: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,688: root: INFO: Current backtesting datetime 2022-12-03 10:30:00-04:00
+2023-11-14 13:21:06,691: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:06,697: root: INFO: Current backtesting datetime 2022-12-03 10:25:00-04:00
+2023-11-14 13:21:06,701: root: INFO: Current backtesting datetime 2022-12-03 10:25:00-04:00
+2023-11-14 13:21:06,701: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:06,704: root: INFO: Current backtesting datetime 2022-12-05 09:30:00-04:00
+2023-11-14 13:21:06,706: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:06,709: root: INFO: Current backtesting datetime 2022-12-05 10:30:00-04:00
+2023-11-14 13:21:06,710: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:06,714: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,715: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,717: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,718: root: INFO: Current backtesting datetime 2022-12-06 10:30:00-04:00
+2023-11-14 13:21:06,720: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,720: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,723: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,723: root: INFO: Current backtesting datetime 2022-12-07 10:30:00-04:00
+2023-11-14 13:21:06,726: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,726: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,730: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,730: root: INFO: Current backtesting datetime 2022-12-08 10:30:00-04:00
+2023-11-14 13:21:06,733: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,733: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,735: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,735: root: INFO: Current backtesting datetime 2022-12-09 10:30:00-04:00
+2023-11-14 13:21:06,737: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,738: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,739: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,740: root: INFO: Current backtesting datetime 2022-12-10 10:30:00-04:00
+2023-11-14 13:21:06,743: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:06,749: root: INFO: Current backtesting datetime 2022-12-10 10:25:00-04:00
+2023-11-14 13:21:06,752: root: INFO: Current backtesting datetime 2022-12-10 10:25:00-04:00
+2023-11-14 13:21:06,753: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:06,756: root: INFO: Current backtesting datetime 2022-12-12 09:30:00-04:00
+2023-11-14 13:21:06,757: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:06,761: root: INFO: Current backtesting datetime 2022-12-12 10:30:00-04:00
+2023-11-14 13:21:06,761: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:06,766: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,766: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,768: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,769: root: INFO: Current backtesting datetime 2022-12-13 10:30:00-04:00
+2023-11-14 13:21:06,771: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,771: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,773: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,773: root: INFO: Current backtesting datetime 2022-12-14 10:30:00-04:00
+2023-11-14 13:21:06,776: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,777: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,781: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,781: root: INFO: Current backtesting datetime 2022-12-15 10:30:00-04:00
+2023-11-14 13:21:06,783: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,784: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,786: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,787: root: INFO: Current backtesting datetime 2022-12-16 10:30:00-04:00
+2023-11-14 13:21:06,788: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,788: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,790: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,790: root: INFO: Current backtesting datetime 2022-12-17 10:30:00-04:00
+2023-11-14 13:21:06,793: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:06,798: root: INFO: Current backtesting datetime 2022-12-17 10:25:00-04:00
+2023-11-14 13:21:06,801: root: INFO: Current backtesting datetime 2022-12-17 10:25:00-04:00
+2023-11-14 13:21:06,802: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:06,805: root: INFO: Current backtesting datetime 2022-12-19 09:30:00-04:00
+2023-11-14 13:21:06,806: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:06,810: root: INFO: Current backtesting datetime 2022-12-19 10:30:00-04:00
+2023-11-14 13:21:06,810: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:06,815: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,815: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,817: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,818: root: INFO: Current backtesting datetime 2022-12-20 10:30:00-04:00
+2023-11-14 13:21:06,819: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,819: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,821: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,822: root: INFO: Current backtesting datetime 2022-12-21 10:30:00-04:00
+2023-11-14 13:21:06,823: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,824: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,828: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,828: root: INFO: Current backtesting datetime 2022-12-22 10:30:00-04:00
+2023-11-14 13:21:06,831: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,831: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,833: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,834: root: INFO: Current backtesting datetime 2022-12-23 10:30:00-04:00
+2023-11-14 13:21:06,835: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,836: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,838: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,838: root: INFO: Current backtesting datetime 2022-12-24 10:30:00-04:00
+2023-11-14 13:21:06,839: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:06,846: root: INFO: Current backtesting datetime 2022-12-24 10:25:00-04:00
+2023-11-14 13:21:06,849: root: INFO: Current backtesting datetime 2022-12-24 10:25:00-04:00
+2023-11-14 13:21:06,850: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:06,851: root: INFO: Current backtesting datetime 2022-12-27 09:30:00-04:00
+2023-11-14 13:21:06,854: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:06,855: root: INFO: Current backtesting datetime 2022-12-27 10:30:00-04:00
+2023-11-14 13:21:06,855: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:06,861: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,861: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,865: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,865: root: INFO: Current backtesting datetime 2022-12-28 10:30:00-04:00
+2023-11-14 13:21:06,867: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,867: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,868: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,869: root: INFO: Current backtesting datetime 2022-12-29 10:30:00-04:00
+2023-11-14 13:21:06,871: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,871: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,874: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,874: root: INFO: Current backtesting datetime 2022-12-30 10:30:00-04:00
+2023-11-14 13:21:06,878: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,878: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,880: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,881: root: INFO: Current backtesting datetime 2022-12-31 10:30:00-04:00
+2023-11-14 13:21:06,883: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:06,887: root: INFO: Current backtesting datetime 2022-12-31 10:25:00-04:00
+2023-11-14 13:21:06,890: root: INFO: Current backtesting datetime 2022-12-31 10:25:00-04:00
+2023-11-14 13:21:06,890: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:06,894: root: INFO: Current backtesting datetime 2023-01-03 09:30:00-04:00
+2023-11-14 13:21:06,896: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:06,899: root: INFO: Current backtesting datetime 2023-01-03 10:30:00-04:00
+2023-11-14 13:21:06,900: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:06,904: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,904: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,907: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,908: root: INFO: Current backtesting datetime 2023-01-04 10:30:00-04:00
+2023-11-14 13:21:06,911: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,911: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,914: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,915: root: INFO: Current backtesting datetime 2023-01-05 10:30:00-04:00
+2023-11-14 13:21:06,917: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,917: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,919: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,920: root: INFO: Current backtesting datetime 2023-01-06 10:30:00-04:00
+2023-11-14 13:21:06,922: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,922: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,923: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,924: root: INFO: Current backtesting datetime 2023-01-07 10:30:00-04:00
+2023-11-14 13:21:06,927: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:06,932: root: INFO: Current backtesting datetime 2023-01-07 10:25:00-04:00
+2023-11-14 13:21:06,936: root: INFO: Current backtesting datetime 2023-01-07 10:25:00-04:00
+2023-11-14 13:21:06,937: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:06,938: root: INFO: Current backtesting datetime 2023-01-09 09:30:00-04:00
+2023-11-14 13:21:06,940: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:06,944: root: INFO: Current backtesting datetime 2023-01-09 10:30:00-04:00
+2023-11-14 13:21:06,945: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:06,949: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,950: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,952: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,953: root: INFO: Current backtesting datetime 2023-01-10 10:30:00-04:00
+2023-11-14 13:21:06,954: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,955: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,957: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,958: root: INFO: Current backtesting datetime 2023-01-11 10:30:00-04:00
+2023-11-14 13:21:06,961: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,961: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,964: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,964: root: INFO: Current backtesting datetime 2023-01-12 10:30:00-04:00
+2023-11-14 13:21:06,966: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,966: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,968: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,968: root: INFO: Current backtesting datetime 2023-01-13 10:30:00-04:00
+2023-11-14 13:21:06,970: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,970: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,973: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:06,973: root: INFO: Current backtesting datetime 2023-01-14 10:30:00-04:00
+2023-11-14 13:21:06,976: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:06,982: root: INFO: Current backtesting datetime 2023-01-14 10:25:00-04:00
+2023-11-14 13:21:06,986: root: INFO: Current backtesting datetime 2023-01-14 10:25:00-04:00
+2023-11-14 13:21:06,986: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:06,989: root: INFO: Current backtesting datetime 2023-01-17 09:30:00-04:00
+2023-11-14 13:21:06,990: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:06,994: root: INFO: Current backtesting datetime 2023-01-17 10:30:00-04:00
+2023-11-14 13:21:06,994: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:06,999: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:06,999: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:06[0m
+2023-11-14 13:21:07,002: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,003: root: INFO: Current backtesting datetime 2023-01-18 10:30:00-04:00
+2023-11-14 13:21:07,005: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,005: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,008: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,009: root: INFO: Current backtesting datetime 2023-01-19 10:30:00-04:00
+2023-11-14 13:21:07,011: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,012: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,015: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,016: root: INFO: Current backtesting datetime 2023-01-20 10:30:00-04:00
+2023-11-14 13:21:07,018: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,018: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,020: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,021: root: INFO: Current backtesting datetime 2023-01-21 10:30:00-04:00
+2023-11-14 13:21:07,023: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:07,029: root: INFO: Current backtesting datetime 2023-01-21 10:25:00-04:00
+2023-11-14 13:21:07,032: root: INFO: Current backtesting datetime 2023-01-21 10:25:00-04:00
+2023-11-14 13:21:07,033: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:07,035: root: INFO: Current backtesting datetime 2023-01-23 09:30:00-04:00
+2023-11-14 13:21:07,037: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:07,039: root: INFO: Current backtesting datetime 2023-01-23 10:30:00-04:00
+2023-11-14 13:21:07,039: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:07,044: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,045: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,047: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,048: root: INFO: Current backtesting datetime 2023-01-24 10:30:00-04:00
+2023-11-14 13:21:07,049: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,050: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,051: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,052: root: INFO: Current backtesting datetime 2023-01-25 10:30:00-04:00
+2023-11-14 13:21:07,054: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,054: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,056: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,057: root: INFO: Current backtesting datetime 2023-01-26 10:30:00-04:00
+2023-11-14 13:21:07,061: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,061: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,064: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,064: root: INFO: Current backtesting datetime 2023-01-27 10:30:00-04:00
+2023-11-14 13:21:07,066: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,066: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,068: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,068: root: INFO: Current backtesting datetime 2023-01-28 10:30:00-04:00
+2023-11-14 13:21:07,071: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:07,076: root: INFO: Current backtesting datetime 2023-01-28 10:25:00-04:00
+2023-11-14 13:21:07,081: root: INFO: Current backtesting datetime 2023-01-28 10:25:00-04:00
+2023-11-14 13:21:07,081: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:07,083: root: INFO: Current backtesting datetime 2023-01-30 09:30:00-04:00
+2023-11-14 13:21:07,086: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:07,088: root: INFO: Current backtesting datetime 2023-01-30 10:30:00-04:00
+2023-11-14 13:21:07,088: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:07,092: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,092: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,096: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,096: root: INFO: Current backtesting datetime 2023-01-31 10:30:00-04:00
+2023-11-14 13:21:07,098: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,099: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,101: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,102: root: INFO: Current backtesting datetime 2023-02-01 10:30:00-04:00
+2023-11-14 13:21:07,104: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,104: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,106: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,106: root: INFO: Current backtesting datetime 2023-02-02 10:30:00-04:00
+2023-11-14 13:21:07,109: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,110: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,113: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,113: root: INFO: Current backtesting datetime 2023-02-03 10:30:00-04:00
+2023-11-14 13:21:07,115: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,115: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,116: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,117: root: INFO: Current backtesting datetime 2023-02-04 10:30:00-04:00
+2023-11-14 13:21:07,118: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:07,122: root: INFO: Current backtesting datetime 2023-02-04 10:25:00-04:00
+2023-11-14 13:21:07,128: root: INFO: Current backtesting datetime 2023-02-04 10:25:00-04:00
+2023-11-14 13:21:07,128: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:07,130: root: INFO: Current backtesting datetime 2023-02-06 09:30:00-04:00
+2023-11-14 13:21:07,132: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:07,135: root: INFO: Current backtesting datetime 2023-02-06 10:30:00-04:00
+2023-11-14 13:21:07,135: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:07,138: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,138: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,141: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,142: root: INFO: Current backtesting datetime 2023-02-07 10:30:00-04:00
+2023-11-14 13:21:07,145: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,145: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,148: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,148: root: INFO: Current backtesting datetime 2023-02-08 10:30:00-04:00
+2023-11-14 13:21:07,151: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,151: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,153: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,153: root: INFO: Current backtesting datetime 2023-02-09 10:30:00-04:00
+2023-11-14 13:21:07,155: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,155: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,158: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,159: root: INFO: Current backtesting datetime 2023-02-10 10:30:00-04:00
+2023-11-14 13:21:07,162: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,162: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,165: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,165: root: INFO: Current backtesting datetime 2023-02-11 10:30:00-04:00
+2023-11-14 13:21:07,168: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:07,177: root: INFO: Current backtesting datetime 2023-02-11 10:25:00-04:00
+2023-11-14 13:21:07,181: root: INFO: Current backtesting datetime 2023-02-11 10:25:00-04:00
+2023-11-14 13:21:07,181: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:07,184: root: INFO: Current backtesting datetime 2023-02-13 09:30:00-04:00
+2023-11-14 13:21:07,186: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:07,189: root: INFO: Current backtesting datetime 2023-02-13 10:30:00-04:00
+2023-11-14 13:21:07,189: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:07,195: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,195: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,198: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,199: root: INFO: Current backtesting datetime 2023-02-14 10:30:00-04:00
+2023-11-14 13:21:07,201: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,201: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,204: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,204: root: INFO: Current backtesting datetime 2023-02-15 10:30:00-04:00
+2023-11-14 13:21:07,206: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,207: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,211: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,211: root: INFO: Current backtesting datetime 2023-02-16 10:30:00-04:00
+2023-11-14 13:21:07,214: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,214: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,217: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,218: root: INFO: Current backtesting datetime 2023-02-17 10:30:00-04:00
+2023-11-14 13:21:07,220: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,220: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,222: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,222: root: INFO: Current backtesting datetime 2023-02-18 10:30:00-04:00
+2023-11-14 13:21:07,223: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:07,230: root: INFO: Current backtesting datetime 2023-02-18 10:25:00-04:00
+2023-11-14 13:21:07,234: root: INFO: Current backtesting datetime 2023-02-18 10:25:00-04:00
+2023-11-14 13:21:07,234: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:07,237: root: INFO: Current backtesting datetime 2023-02-21 09:30:00-04:00
+2023-11-14 13:21:07,238: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:07,239: root: INFO: Current backtesting datetime 2023-02-21 10:30:00-04:00
+2023-11-14 13:21:07,240: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:07,245: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,246: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,248: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,248: root: INFO: Current backtesting datetime 2023-02-22 10:30:00-04:00
+2023-11-14 13:21:07,251: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,251: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,252: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,253: root: INFO: Current backtesting datetime 2023-02-23 10:30:00-04:00
+2023-11-14 13:21:07,254: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,254: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,256: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,257: root: INFO: Current backtesting datetime 2023-02-24 10:30:00-04:00
+2023-11-14 13:21:07,260: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,261: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,264: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,264: root: INFO: Current backtesting datetime 2023-02-25 10:30:00-04:00
+2023-11-14 13:21:07,266: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:07,271: root: INFO: Current backtesting datetime 2023-02-25 10:25:00-04:00
+2023-11-14 13:21:07,275: root: INFO: Current backtesting datetime 2023-02-25 10:25:00-04:00
+2023-11-14 13:21:07,276: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:07,279: root: INFO: Current backtesting datetime 2023-02-27 09:30:00-04:00
+2023-11-14 13:21:07,282: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:07,285: root: INFO: Current backtesting datetime 2023-02-27 10:30:00-04:00
+2023-11-14 13:21:07,285: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:07,289: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,290: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,293: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,294: root: INFO: Current backtesting datetime 2023-02-28 10:30:00-04:00
+2023-11-14 13:21:07,296: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,297: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,299: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,300: root: INFO: Current backtesting datetime 2023-03-01 10:30:00-04:00
+2023-11-14 13:21:07,301: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,301: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,303: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,304: root: INFO: Current backtesting datetime 2023-03-02 10:30:00-04:00
+2023-11-14 13:21:07,306: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,306: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,310: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,310: root: INFO: Current backtesting datetime 2023-03-03 10:30:00-04:00
+2023-11-14 13:21:07,312: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,313: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,316: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,316: root: INFO: Current backtesting datetime 2023-03-04 10:30:00-04:00
+2023-11-14 13:21:07,317: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:07,322: root: INFO: Current backtesting datetime 2023-03-04 10:25:00-04:00
+2023-11-14 13:21:07,328: root: INFO: Current backtesting datetime 2023-03-04 10:25:00-04:00
+2023-11-14 13:21:07,329: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:07,332: root: INFO: Current backtesting datetime 2023-03-06 09:30:00-04:00
+2023-11-14 13:21:07,334: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:07,337: root: INFO: Current backtesting datetime 2023-03-06 10:30:00-04:00
+2023-11-14 13:21:07,337: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:07,340: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,341: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,345: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,345: root: INFO: Current backtesting datetime 2023-03-07 10:30:00-04:00
+2023-11-14 13:21:07,348: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,348: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,351: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,351: root: INFO: Current backtesting datetime 2023-03-08 10:30:00-04:00
+2023-11-14 13:21:07,354: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,354: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,356: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,356: root: INFO: Current backtesting datetime 2023-03-09 10:30:00-04:00
+2023-11-14 13:21:07,361: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,361: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,365: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,365: root: INFO: Current backtesting datetime 2023-03-10 10:30:00-04:00
+2023-11-14 13:21:07,367: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,368: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,370: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,371: root: INFO: Current backtesting datetime 2023-03-11 10:30:00-04:00
+2023-11-14 13:21:07,373: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:07,381: root: INFO: Current backtesting datetime 2023-03-11 10:25:00-04:00
+2023-11-14 13:21:07,384: root: INFO: Current backtesting datetime 2023-03-11 10:25:00-04:00
+2023-11-14 13:21:07,384: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:07,386: root: INFO: Current backtesting datetime 2023-03-13 08:30:00-04:00
+2023-11-14 13:21:07,389: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:07,394: root: INFO: Current backtesting datetime 2023-03-13 09:30:00-04:00
+2023-11-14 13:21:07,394: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:07,401: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,402: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,405: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,406: root: INFO: Current backtesting datetime 2023-03-14 09:30:00-04:00
+2023-11-14 13:21:07,410: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,410: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,414: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,414: root: INFO: Current backtesting datetime 2023-03-15 09:30:00-04:00
+2023-11-14 13:21:07,416: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,417: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,420: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,421: root: INFO: Current backtesting datetime 2023-03-16 09:30:00-04:00
+2023-11-14 13:21:07,424: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,425: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,430: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,430: root: INFO: Current backtesting datetime 2023-03-17 09:30:00-04:00
+2023-11-14 13:21:07,432: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,432: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,434: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,434: root: INFO: Current backtesting datetime 2023-03-18 09:30:00-04:00
+2023-11-14 13:21:07,437: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:07,442: root: INFO: Current backtesting datetime 2023-03-18 09:25:00-04:00
+2023-11-14 13:21:07,447: root: INFO: Current backtesting datetime 2023-03-18 09:25:00-04:00
+2023-11-14 13:21:07,447: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:07,450: root: INFO: Current backtesting datetime 2023-03-20 08:30:00-04:00
+2023-11-14 13:21:07,451: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:07,454: root: INFO: Current backtesting datetime 2023-03-20 09:30:00-04:00
+2023-11-14 13:21:07,454: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:07,458: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,458: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,462: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,462: root: INFO: Current backtesting datetime 2023-03-21 09:30:00-04:00
+2023-11-14 13:21:07,464: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,464: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,467: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,467: root: INFO: Current backtesting datetime 2023-03-22 09:30:00-04:00
+2023-11-14 13:21:07,468: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,468: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,471: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,471: root: INFO: Current backtesting datetime 2023-03-23 09:30:00-04:00
+2023-11-14 13:21:07,473: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,473: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,477: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,478: root: INFO: Current backtesting datetime 2023-03-24 09:30:00-04:00
+2023-11-14 13:21:07,480: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,480: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,482: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,482: root: INFO: Current backtesting datetime 2023-03-25 09:30:00-04:00
+2023-11-14 13:21:07,485: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:07,489: root: INFO: Current backtesting datetime 2023-03-25 09:25:00-04:00
+2023-11-14 13:21:07,493: root: INFO: Current backtesting datetime 2023-03-25 09:25:00-04:00
+2023-11-14 13:21:07,493: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:07,497: root: INFO: Current backtesting datetime 2023-03-27 08:30:00-04:00
+2023-11-14 13:21:07,500: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:07,502: root: INFO: Current backtesting datetime 2023-03-27 09:30:00-04:00
+2023-11-14 13:21:07,503: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:07,507: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,507: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,511: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,512: root: INFO: Current backtesting datetime 2023-03-28 09:30:00-04:00
+2023-11-14 13:21:07,514: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,514: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,517: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,517: root: INFO: Current backtesting datetime 2023-03-29 09:30:00-04:00
+2023-11-14 13:21:07,520: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,520: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,523: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,523: root: INFO: Current backtesting datetime 2023-03-30 09:30:00-04:00
+2023-11-14 13:21:07,526: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,527: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,530: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,531: root: INFO: Current backtesting datetime 2023-03-31 09:30:00-04:00
+2023-11-14 13:21:07,533: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,533: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,535: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,536: root: INFO: Current backtesting datetime 2023-04-01 09:30:00-04:00
+2023-11-14 13:21:07,538: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:07,544: root: INFO: Current backtesting datetime 2023-04-01 09:25:00-04:00
+2023-11-14 13:21:07,550: root: INFO: Current backtesting datetime 2023-04-01 09:25:00-04:00
+2023-11-14 13:21:07,550: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:07,552: root: INFO: Current backtesting datetime 2023-04-03 08:30:00-04:00
+2023-11-14 13:21:07,554: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:07,558: root: INFO: Current backtesting datetime 2023-04-03 09:30:00-04:00
+2023-11-14 13:21:07,558: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:07,564: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,564: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,567: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,568: root: INFO: Current backtesting datetime 2023-04-04 09:30:00-04:00
+2023-11-14 13:21:07,570: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,570: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,573: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,574: root: INFO: Current backtesting datetime 2023-04-05 09:30:00-04:00
+2023-11-14 13:21:07,576: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,577: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,580: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,580: root: INFO: Current backtesting datetime 2023-04-06 09:30:00-04:00
+2023-11-14 13:21:07,583: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,583: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,585: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,586: root: INFO: Current backtesting datetime 2023-04-07 09:30:00-04:00
+2023-11-14 13:21:07,588: root: INFO: [34mTrend : The market is not currently open, skipping this trading iteration[0m
+2023-11-14 13:21:07,594: root: INFO: Current backtesting datetime 2023-04-07 09:25:00-04:00
+2023-11-14 13:21:07,599: root: INFO: Current backtesting datetime 2023-04-07 09:25:00-04:00
+2023-11-14 13:21:07,599: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:07,602: root: INFO: Current backtesting datetime 2023-04-10 08:30:00-04:00
+2023-11-14 13:21:07,604: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 13:21:07,606: root: INFO: Current backtesting datetime 2023-04-10 09:30:00-04:00
+2023-11-14 13:21:07,606: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 13:21:07,612: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,613: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,615: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,616: root: INFO: Current backtesting datetime 2023-04-11 09:30:00-04:00
+2023-11-14 13:21:07,617: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,617: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,618: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,619: root: INFO: Current backtesting datetime 2023-04-12 09:30:00-04:00
+2023-11-14 13:21:07,620: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,621: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,623: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,623: root: INFO: Current backtesting datetime 2023-04-13 09:30:00-04:00
+2023-11-14 13:21:07,626: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,626: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,630: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,631: root: INFO: Current backtesting datetime 2023-04-14 09:30:00-04:00
+2023-11-14 13:21:07,633: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,633: root: INFO: [34mTrend : Trading iteration ended at 2023-11-14 13:21:07[0m
+2023-11-14 13:21:07,635: root: INFO: Trend : [34mSleeping for 86400 seconds[0m
+2023-11-14 13:21:07,636: root: INFO: Current backtesting datetime 2023-04-15 09:30:00-04:00
+2023-11-14 13:21:07,639: root: INFO: Current backtesting datetime 2023-04-15 09:25:00-04:00
+2023-11-14 13:21:07,644: root: INFO: Current backtesting datetime 2023-04-15 09:25:00-04:00
+2023-11-14 13:21:07,645: root: INFO: Trend : Executing the after_market_closes lifecycle method
+2023-11-14 13:21:07,645: root: INFO: Trend : Executing the on_strategy_end lifecycle method
+2023-11-14 13:21:07,703: root: INFO: Backtesting finished
+2023-11-14 13:21:07,724: root: INFO: There were no trades in this backtest.
+2023-11-14 13:21:07,961: root: ERROR: Not enough data to create a tearsheet, at least 2 days of data are required. Skipping
+2023-11-14 13:21:07,962: backtest_stats: INFO: Backtest took 0:00:07.399639 for a speed of 0.000

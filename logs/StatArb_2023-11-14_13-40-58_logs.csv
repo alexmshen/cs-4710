@@ -1,0 +1,41 @@
+2023-11-14 13:40:58,817: root: INFO: StatArb : Executing the initialize lifecycle method
+2023-11-14 13:41:02,179: root: INFO: Current backtesting datetime 2020-04-15 08:30:00-04:00
+2023-11-14 13:41:02,184: root: INFO: StatArb : Executing the before_market_opens lifecycle method
+2023-11-14 13:41:02,187: root: INFO: Current backtesting datetime 2020-04-15 09:30:00-04:00
+2023-11-14 13:41:02,188: root: INFO: StatArb : Executing the before_starting_trading lifecycle method
+2023-11-14 13:41:02,194: root: INFO: [34mStatArb : Executing the on_trading_iteration lifecycle method at 2023-11-14 13:41:02[0m
+2023-11-14 13:41:02,195: root: INFO: Getting historical prices for AMZN, 22 bars, day
+2023-11-14 13:41:02,195: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-14 13:41:02,220: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-14 13:41:02,220: root: INFO: Getting historical prices for GOOG, 22 bars, day
+2023-11-14 13:41:02,221: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-14 13:41:02,237: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-14 13:41:02,243: root: ERROR: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2023-11-14 13:41:02,253: root: ERROR: Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/lumibot/strategies/strategy_executor.py", line 799, in run
+    self._run_trading_session()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/lumibot/strategies/strategy_executor.py", line 750, in _run_trading_session
+    self._on_trading_iteration()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/lumibot/strategies/strategy_executor.py", line 275, in func_output
+    result = func_input(self, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/lumibot/strategies/strategy_executor.py", line 299, in func_output
+    result = func_input(self, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/lumibot/strategies/strategy_executor.py", line 88, in func_output
+    return func_input(self, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/lumibot/strategies/strategy_executor.py", line 374, in _on_trading_iteration
+    on_trading_iteration()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/lumibot/tools/decorators.py", line 62, in func_output
+    frame, result = call_function_get_frame(func_input, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/lumibot/tools/decorators.py", line 30, in call_function_get_frame
+    result = func(*args, **kwargs)
+  File "/Users/alexandershen/Desktop/trdalgo/cs-4710/stat_arb.py", line 71, in on_trading_iteration
+    if (goog['close'] - amzn['close'] == 5) and not goog['close'].empty():
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/pandas/core/generic.py", line 1466, in __nonzero__
+    raise ValueError(
+ValueError: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+
+2023-11-14 13:41:02,254: root: INFO: StatArb : Executing the on_bot_crash event method
+2023-11-14 13:41:02,261: root: INFO: Backtesting finished
+2023-11-14 13:41:02,265: root: WARNING: Cannot plot returns because the strategy returns are missing
+2023-11-14 13:41:02,505: root: WARNING: Cannot create a tearsheet because the strategy returns are missing
+2023-11-14 13:41:02,523: backtest_stats: INFO: Backtest took 0:00:03.706749 for a speed of 0.000

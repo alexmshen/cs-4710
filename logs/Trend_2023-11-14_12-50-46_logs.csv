@@ -1,0 +1,39 @@
+2023-11-14 12:50:46,629: root: INFO: Trend : Executing the initialize lifecycle method
+2023-11-14 12:50:49,616: root: INFO: Current backtesting datetime 2022-04-18 08:30:00-04:00
+2023-11-14 12:50:49,619: root: INFO: Trend : Executing the before_market_opens lifecycle method
+2023-11-14 12:50:49,620: root: INFO: Current backtesting datetime 2022-04-18 09:30:00-04:00
+2023-11-14 12:50:49,620: root: INFO: Trend : Executing the before_starting_trading lifecycle method
+2023-11-14 12:50:49,625: root: INFO: [34mTrend : Executing the on_trading_iteration lifecycle method at 2023-11-14 12:50:49[0m
+2023-11-14 12:50:49,626: root: INFO: Getting historical prices for COKE, 22 bars, day
+2023-11-14 12:50:49,626: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-14 12:50:51,196: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-14 12:50:51,196: root: INFO: Getting historical prices for PEP, 22 bars, day
+2023-11-14 12:50:51,197: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-14 12:50:52,865: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-14 12:50:52,880: root: ERROR: logical_and() takes from 2 to 3 positional arguments but 4 were given
+2023-11-14 12:50:52,884: root: ERROR: Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/lumibot/strategies/strategy_executor.py", line 799, in run
+    self._run_trading_session()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/lumibot/strategies/strategy_executor.py", line 750, in _run_trading_session
+    self._on_trading_iteration()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/lumibot/strategies/strategy_executor.py", line 275, in func_output
+    result = func_input(self, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/lumibot/strategies/strategy_executor.py", line 299, in func_output
+    result = func_input(self, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/lumibot/strategies/strategy_executor.py", line 88, in func_output
+    return func_input(self, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/lumibot/strategies/strategy_executor.py", line 374, in _on_trading_iteration
+    on_trading_iteration()
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/lumibot/tools/decorators.py", line 62, in func_output
+    frame, result = call_function_get_frame(func_input, *args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/3.9/lib/python3.9/site-packages/lumibot/tools/decorators.py", line 30, in call_function_get_frame
+    result = func(*args, **kwargs)
+  File "/Users/alexandershen/Desktop/trdalgo/cs-4710/stat_arb.py", line 34, in on_trading_iteration
+    coke['Signal'] = np.where(np.logical_and(coke['9-day'] > coke['21-day'], coke['9-day'].shift(1) < coke['21-day'].shift(1), pep['9-day'] < pep['21-day'], pep['9-day'].shift(1) > pep['21-day'].shift(1)), "BUY", None)
+TypeError: logical_and() takes from 2 to 3 positional arguments but 4 were given
+
+2023-11-14 12:50:52,887: root: INFO: Trend : Executing the on_bot_crash event method
+2023-11-14 12:50:52,898: root: INFO: Backtesting finished
+2023-11-14 12:50:52,900: root: WARNING: Cannot plot returns because the strategy returns are missing
+2023-11-14 12:50:53,161: root: WARNING: Cannot create a tearsheet because the strategy returns are missing
+2023-11-14 12:50:53,161: backtest_stats: INFO: Backtest took 0:00:06.533569 for a speed of 0.000

@@ -1,0 +1,1543 @@
+2023-11-13 19:53:33,520: root: INFO: BuyHold : Executing the initialize lifecycle method
+2023-11-13 19:53:37,662: root: INFO: Current backtesting datetime 2022-01-03 08:30:00-05:00
+2023-11-13 19:53:37,666: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:37,672: root: INFO: Current backtesting datetime 2022-01-03 09:30:00-05:00
+2023-11-13 19:53:37,674: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:37,678: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:37[0m
+2023-11-13 19:53:37,678: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:39,317: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:39,320: root: INFO: [32mNew market order of | 687 GOOG buy | with status unprocessed was submitted.[0m
+2023-11-13 19:53:39,326: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,326: root: INFO: Getting historical prices for GOOG, 1 bars, 
+2023-11-13 19:53:39,326: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:39,327: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:39,328: root: INFO: [32mFilled Transaction: buy 687 of GOOG at 144.47549438 USD per share[0m
+2023-11-13 19:53:39,328: root: INFO: market order of | 687 GOOG buy | with status new was filled
+2023-11-13 19:53:39,333: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,333: root: INFO: Current backtesting datetime 2022-01-04 09:30:00-05:00
+2023-11-13 19:53:39,336: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,336: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,338: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,338: root: INFO: Current backtesting datetime 2022-01-05 09:30:00-05:00
+2023-11-13 19:53:39,342: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,342: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,344: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,345: root: INFO: Current backtesting datetime 2022-01-06 09:30:00-05:00
+2023-11-13 19:53:39,347: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,347: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,349: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,349: root: INFO: Current backtesting datetime 2022-01-07 09:30:00-05:00
+2023-11-13 19:53:39,353: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,354: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,358: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,358: root: INFO: Current backtesting datetime 2022-01-08 09:30:00-05:00
+2023-11-13 19:53:39,363: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:39,367: root: INFO: Current backtesting datetime 2022-01-08 09:25:00-05:00
+2023-11-13 19:53:39,372: root: INFO: Current backtesting datetime 2022-01-08 09:25:00-05:00
+2023-11-13 19:53:39,372: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:39,375: root: INFO: Current backtesting datetime 2022-01-10 08:30:00-05:00
+2023-11-13 19:53:39,376: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:39,377: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:39,379: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:39,381: root: INFO: Current backtesting datetime 2022-01-10 09:30:00-05:00
+2023-11-13 19:53:39,382: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:39,387: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,388: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,389: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,389: root: INFO: Current backtesting datetime 2022-01-11 09:30:00-05:00
+2023-11-13 19:53:39,392: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,392: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,394: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,394: root: INFO: Current backtesting datetime 2022-01-12 09:30:00-05:00
+2023-11-13 19:53:39,397: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,397: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,398: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,398: root: INFO: Current backtesting datetime 2022-01-13 09:30:00-05:00
+2023-11-13 19:53:39,401: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,402: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,406: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,406: root: INFO: Current backtesting datetime 2022-01-14 09:30:00-05:00
+2023-11-13 19:53:39,410: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,410: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,412: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,413: root: INFO: Current backtesting datetime 2022-01-15 09:30:00-05:00
+2023-11-13 19:53:39,416: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:39,421: root: INFO: Current backtesting datetime 2022-01-15 09:25:00-05:00
+2023-11-13 19:53:39,424: root: INFO: Current backtesting datetime 2022-01-15 09:25:00-05:00
+2023-11-13 19:53:39,424: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:39,425: root: INFO: Current backtesting datetime 2022-01-18 08:30:00-05:00
+2023-11-13 19:53:39,426: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:39,427: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:39,428: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:39,430: root: INFO: Current backtesting datetime 2022-01-18 09:30:00-05:00
+2023-11-13 19:53:39,430: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:39,434: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,434: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,436: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,437: root: INFO: Current backtesting datetime 2022-01-19 09:30:00-05:00
+2023-11-13 19:53:39,440: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,441: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,443: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,443: root: INFO: Current backtesting datetime 2022-01-20 09:30:00-05:00
+2023-11-13 19:53:39,447: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,447: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,449: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,449: root: INFO: Current backtesting datetime 2022-01-21 09:30:00-05:00
+2023-11-13 19:53:39,453: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,454: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,456: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,456: root: INFO: Current backtesting datetime 2022-01-22 09:30:00-05:00
+2023-11-13 19:53:39,460: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:39,464: root: INFO: Current backtesting datetime 2022-01-22 09:25:00-05:00
+2023-11-13 19:53:39,468: root: INFO: Current backtesting datetime 2022-01-22 09:25:00-05:00
+2023-11-13 19:53:39,468: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:39,471: root: INFO: Current backtesting datetime 2022-01-24 08:30:00-05:00
+2023-11-13 19:53:39,472: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:39,473: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:39,475: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:39,476: root: INFO: Current backtesting datetime 2022-01-24 09:30:00-05:00
+2023-11-13 19:53:39,477: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:39,480: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,480: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,481: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,481: root: INFO: Current backtesting datetime 2022-01-25 09:30:00-05:00
+2023-11-13 19:53:39,485: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,485: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,489: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,489: root: INFO: Current backtesting datetime 2022-01-26 09:30:00-05:00
+2023-11-13 19:53:39,493: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,493: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,496: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,496: root: INFO: Current backtesting datetime 2022-01-27 09:30:00-05:00
+2023-11-13 19:53:39,499: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,499: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,500: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,500: root: INFO: Current backtesting datetime 2022-01-28 09:30:00-05:00
+2023-11-13 19:53:39,505: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,505: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,506: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,507: root: INFO: Current backtesting datetime 2022-01-29 09:30:00-05:00
+2023-11-13 19:53:39,509: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:39,512: root: INFO: Current backtesting datetime 2022-01-29 09:25:00-05:00
+2023-11-13 19:53:39,515: root: INFO: Current backtesting datetime 2022-01-29 09:25:00-05:00
+2023-11-13 19:53:39,515: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:39,517: root: INFO: Current backtesting datetime 2022-01-31 08:30:00-05:00
+2023-11-13 19:53:39,517: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:39,519: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:39,523: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:39,525: root: INFO: Current backtesting datetime 2022-01-31 09:30:00-05:00
+2023-11-13 19:53:39,525: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:39,529: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,529: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,531: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,531: root: INFO: Current backtesting datetime 2022-02-01 09:30:00-05:00
+2023-11-13 19:53:39,534: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,535: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,538: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,538: root: INFO: Current backtesting datetime 2022-02-02 09:30:00-05:00
+2023-11-13 19:53:39,542: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,543: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,545: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,545: root: INFO: Current backtesting datetime 2022-02-03 09:30:00-05:00
+2023-11-13 19:53:39,549: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,549: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,551: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,551: root: INFO: Current backtesting datetime 2022-02-04 09:30:00-05:00
+2023-11-13 19:53:39,555: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,555: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,557: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,557: root: INFO: Current backtesting datetime 2022-02-05 09:30:00-05:00
+2023-11-13 19:53:39,560: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:39,563: root: INFO: Current backtesting datetime 2022-02-05 09:25:00-05:00
+2023-11-13 19:53:39,566: root: INFO: Current backtesting datetime 2022-02-05 09:25:00-05:00
+2023-11-13 19:53:39,566: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:39,569: root: INFO: Current backtesting datetime 2022-02-07 08:30:00-05:00
+2023-11-13 19:53:39,570: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:39,573: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:39,576: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:39,578: root: INFO: Current backtesting datetime 2022-02-07 09:30:00-05:00
+2023-11-13 19:53:39,579: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:39,586: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,586: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,590: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,591: root: INFO: Current backtesting datetime 2022-02-08 09:30:00-05:00
+2023-11-13 19:53:39,594: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,595: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,598: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,598: root: INFO: Current backtesting datetime 2022-02-09 09:30:00-05:00
+2023-11-13 19:53:39,601: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,602: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,605: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,606: root: INFO: Current backtesting datetime 2022-02-10 09:30:00-05:00
+2023-11-13 19:53:39,610: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,610: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,613: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,614: root: INFO: Current backtesting datetime 2022-02-11 09:30:00-05:00
+2023-11-13 19:53:39,618: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,619: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,623: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,624: root: INFO: Current backtesting datetime 2022-02-12 09:30:00-05:00
+2023-11-13 19:53:39,627: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:39,633: root: INFO: Current backtesting datetime 2022-02-12 09:25:00-05:00
+2023-11-13 19:53:39,638: root: INFO: Current backtesting datetime 2022-02-12 09:25:00-05:00
+2023-11-13 19:53:39,638: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:39,642: root: INFO: Current backtesting datetime 2022-02-14 08:30:00-05:00
+2023-11-13 19:53:39,643: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:39,644: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:39,646: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:39,648: root: INFO: Current backtesting datetime 2022-02-14 09:30:00-05:00
+2023-11-13 19:53:39,649: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:39,657: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,657: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,660: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,660: root: INFO: Current backtesting datetime 2022-02-15 09:30:00-05:00
+2023-11-13 19:53:39,664: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,664: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,667: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,668: root: INFO: Current backtesting datetime 2022-02-16 09:30:00-05:00
+2023-11-13 19:53:39,673: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,673: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,676: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,676: root: INFO: Current backtesting datetime 2022-02-17 09:30:00-05:00
+2023-11-13 19:53:39,680: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,680: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,683: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,683: root: INFO: Current backtesting datetime 2022-02-18 09:30:00-05:00
+2023-11-13 19:53:39,688: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,689: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,693: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,693: root: INFO: Current backtesting datetime 2022-02-19 09:30:00-05:00
+2023-11-13 19:53:39,698: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:39,703: root: INFO: Current backtesting datetime 2022-02-19 09:25:00-05:00
+2023-11-13 19:53:39,708: root: INFO: Current backtesting datetime 2022-02-19 09:25:00-05:00
+2023-11-13 19:53:39,708: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:39,711: root: INFO: Current backtesting datetime 2022-02-22 08:30:00-05:00
+2023-11-13 19:53:39,712: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:39,714: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:39,716: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:39,719: root: INFO: Current backtesting datetime 2022-02-22 09:30:00-05:00
+2023-11-13 19:53:39,720: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:39,727: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,727: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,730: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,730: root: INFO: Current backtesting datetime 2022-02-23 09:30:00-05:00
+2023-11-13 19:53:39,735: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,735: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,740: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,740: root: INFO: Current backtesting datetime 2022-02-24 09:30:00-05:00
+2023-11-13 19:53:39,744: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,745: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,748: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,748: root: INFO: Current backtesting datetime 2022-02-25 09:30:00-05:00
+2023-11-13 19:53:39,767: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,767: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,770: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,770: root: INFO: Current backtesting datetime 2022-02-26 09:30:00-05:00
+2023-11-13 19:53:39,775: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:39,790: root: INFO: Current backtesting datetime 2022-02-26 09:25:00-05:00
+2023-11-13 19:53:39,795: root: INFO: Current backtesting datetime 2022-02-26 09:25:00-05:00
+2023-11-13 19:53:39,795: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:39,799: root: INFO: Current backtesting datetime 2022-02-28 08:30:00-05:00
+2023-11-13 19:53:39,800: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:39,802: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:39,805: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:39,809: root: INFO: Current backtesting datetime 2022-02-28 09:30:00-05:00
+2023-11-13 19:53:39,809: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:39,826: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,827: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,841: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,841: root: INFO: Current backtesting datetime 2022-03-01 09:30:00-05:00
+2023-11-13 19:53:39,849: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,849: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,861: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,862: root: INFO: Current backtesting datetime 2022-03-02 09:30:00-05:00
+2023-11-13 19:53:39,866: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,866: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,877: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,877: root: INFO: Current backtesting datetime 2022-03-03 09:30:00-05:00
+2023-11-13 19:53:39,888: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,888: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,891: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,892: root: INFO: Current backtesting datetime 2022-03-04 09:30:00-05:00
+2023-11-13 19:53:39,895: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,895: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,899: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,899: root: INFO: Current backtesting datetime 2022-03-05 09:30:00-05:00
+2023-11-13 19:53:39,908: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:39,914: root: INFO: Current backtesting datetime 2022-03-05 09:25:00-05:00
+2023-11-13 19:53:39,925: root: INFO: Current backtesting datetime 2022-03-05 09:25:00-05:00
+2023-11-13 19:53:39,925: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:39,929: root: INFO: Current backtesting datetime 2022-03-07 08:30:00-05:00
+2023-11-13 19:53:39,929: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:39,931: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:39,933: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:39,936: root: INFO: Current backtesting datetime 2022-03-07 09:30:00-05:00
+2023-11-13 19:53:39,937: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:39,943: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,943: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,946: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,946: root: INFO: Current backtesting datetime 2022-03-08 09:30:00-05:00
+2023-11-13 19:53:39,950: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,950: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,954: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,955: root: INFO: Current backtesting datetime 2022-03-09 09:30:00-05:00
+2023-11-13 19:53:39,961: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,961: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,966: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,968: root: INFO: Current backtesting datetime 2022-03-10 09:30:00-05:00
+2023-11-13 19:53:39,975: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,975: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,978: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,980: root: INFO: Current backtesting datetime 2022-03-11 09:30:00-05:00
+2023-11-13 19:53:39,983: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,984: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:39[0m
+2023-11-13 19:53:39,988: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:39,989: root: INFO: Current backtesting datetime 2022-03-12 09:30:00-05:00
+2023-11-13 19:53:39,993: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:39,999: root: INFO: Current backtesting datetime 2022-03-12 09:25:00-05:00
+2023-11-13 19:53:40,010: root: INFO: Current backtesting datetime 2022-03-12 09:25:00-05:00
+2023-11-13 19:53:40,010: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:40,012: root: INFO: Current backtesting datetime 2022-03-14 07:30:00-05:00
+2023-11-13 19:53:40,013: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:40,014: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:40,021: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:40,027: root: INFO: Current backtesting datetime 2022-03-14 08:30:00-05:00
+2023-11-13 19:53:40,028: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:40,037: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,038: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,043: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,044: root: INFO: Current backtesting datetime 2022-03-15 08:30:00-05:00
+2023-11-13 19:53:40,047: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,048: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,050: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,051: root: INFO: Current backtesting datetime 2022-03-16 08:30:00-05:00
+2023-11-13 19:53:40,058: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,058: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,060: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,060: root: INFO: Current backtesting datetime 2022-03-17 08:30:00-05:00
+2023-11-13 19:53:40,064: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,064: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,066: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,067: root: INFO: Current backtesting datetime 2022-03-18 08:30:00-05:00
+2023-11-13 19:53:40,072: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,073: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,076: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,077: root: INFO: Current backtesting datetime 2022-03-19 08:30:00-05:00
+2023-11-13 19:53:40,081: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:40,087: root: INFO: Current backtesting datetime 2022-03-19 08:25:00-05:00
+2023-11-13 19:53:40,093: root: INFO: Current backtesting datetime 2022-03-19 08:25:00-05:00
+2023-11-13 19:53:40,093: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:40,096: root: INFO: Current backtesting datetime 2022-03-21 07:30:00-05:00
+2023-11-13 19:53:40,096: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:40,097: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:40,099: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:40,102: root: INFO: Current backtesting datetime 2022-03-21 08:30:00-05:00
+2023-11-13 19:53:40,102: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:40,110: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,111: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,113: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,114: root: INFO: Current backtesting datetime 2022-03-22 08:30:00-05:00
+2023-11-13 19:53:40,118: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,118: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,123: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,123: root: INFO: Current backtesting datetime 2022-03-23 08:30:00-05:00
+2023-11-13 19:53:40,127: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,127: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,129: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,130: root: INFO: Current backtesting datetime 2022-03-24 08:30:00-05:00
+2023-11-13 19:53:40,134: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,134: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,138: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,138: root: INFO: Current backtesting datetime 2022-03-25 08:30:00-05:00
+2023-11-13 19:53:40,141: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,142: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,144: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,144: root: INFO: Current backtesting datetime 2022-03-26 08:30:00-05:00
+2023-11-13 19:53:40,147: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:40,151: root: INFO: Current backtesting datetime 2022-03-26 08:25:00-05:00
+2023-11-13 19:53:40,156: root: INFO: Current backtesting datetime 2022-03-26 08:25:00-05:00
+2023-11-13 19:53:40,157: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:40,159: root: INFO: Current backtesting datetime 2022-03-28 07:30:00-05:00
+2023-11-13 19:53:40,160: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:40,161: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:40,163: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:40,166: root: INFO: Current backtesting datetime 2022-03-28 08:30:00-05:00
+2023-11-13 19:53:40,166: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:40,172: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,172: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,174: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,174: root: INFO: Current backtesting datetime 2022-03-29 08:30:00-05:00
+2023-11-13 19:53:40,176: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,176: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,178: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,178: root: INFO: Current backtesting datetime 2022-03-30 08:30:00-05:00
+2023-11-13 19:53:40,180: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,181: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,183: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,183: root: INFO: Current backtesting datetime 2022-03-31 08:30:00-05:00
+2023-11-13 19:53:40,189: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,189: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,192: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,193: root: INFO: Current backtesting datetime 2022-04-01 08:30:00-05:00
+2023-11-13 19:53:40,197: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,197: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,200: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,201: root: INFO: Current backtesting datetime 2022-04-02 08:30:00-05:00
+2023-11-13 19:53:40,207: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:40,212: root: INFO: Current backtesting datetime 2022-04-02 08:25:00-05:00
+2023-11-13 19:53:40,216: root: INFO: Current backtesting datetime 2022-04-02 08:25:00-05:00
+2023-11-13 19:53:40,217: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:40,220: root: INFO: Current backtesting datetime 2022-04-04 07:30:00-05:00
+2023-11-13 19:53:40,221: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:40,224: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:40,225: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:40,228: root: INFO: Current backtesting datetime 2022-04-04 08:30:00-05:00
+2023-11-13 19:53:40,228: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:40,233: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,234: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,237: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,238: root: INFO: Current backtesting datetime 2022-04-05 08:30:00-05:00
+2023-11-13 19:53:40,243: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,243: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,246: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,247: root: INFO: Current backtesting datetime 2022-04-06 08:30:00-05:00
+2023-11-13 19:53:40,250: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,251: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,254: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,255: root: INFO: Current backtesting datetime 2022-04-07 08:30:00-05:00
+2023-11-13 19:53:40,260: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,260: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,263: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,263: root: INFO: Current backtesting datetime 2022-04-08 08:30:00-05:00
+2023-11-13 19:53:40,267: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,267: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,271: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,272: root: INFO: Current backtesting datetime 2022-04-09 08:30:00-05:00
+2023-11-13 19:53:40,276: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:40,281: root: INFO: Current backtesting datetime 2022-04-09 08:25:00-05:00
+2023-11-13 19:53:40,286: root: INFO: Current backtesting datetime 2022-04-09 08:25:00-05:00
+2023-11-13 19:53:40,286: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:40,290: root: INFO: Current backtesting datetime 2022-04-11 07:30:00-05:00
+2023-11-13 19:53:40,290: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:40,292: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:40,294: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:40,297: root: INFO: Current backtesting datetime 2022-04-11 08:30:00-05:00
+2023-11-13 19:53:40,297: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:40,305: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,305: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,308: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,308: root: INFO: Current backtesting datetime 2022-04-12 08:30:00-05:00
+2023-11-13 19:53:40,313: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,313: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,315: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,315: root: INFO: Current backtesting datetime 2022-04-13 08:30:00-05:00
+2023-11-13 19:53:40,321: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,321: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,325: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,325: root: INFO: Current backtesting datetime 2022-04-14 08:30:00-05:00
+2023-11-13 19:53:40,329: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,329: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,332: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,333: root: INFO: Current backtesting datetime 2022-04-15 08:30:00-05:00
+2023-11-13 19:53:40,338: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:40,343: root: INFO: Current backtesting datetime 2022-04-15 08:25:00-05:00
+2023-11-13 19:53:40,347: root: INFO: Current backtesting datetime 2022-04-15 08:25:00-05:00
+2023-11-13 19:53:40,347: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:40,350: root: INFO: Current backtesting datetime 2022-04-18 07:30:00-05:00
+2023-11-13 19:53:40,350: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:40,353: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:40,357: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:40,360: root: INFO: Current backtesting datetime 2022-04-18 08:30:00-05:00
+2023-11-13 19:53:40,360: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:40,366: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,366: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,370: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,370: root: INFO: Current backtesting datetime 2022-04-19 08:30:00-05:00
+2023-11-13 19:53:40,375: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,375: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,378: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,378: root: INFO: Current backtesting datetime 2022-04-20 08:30:00-05:00
+2023-11-13 19:53:40,382: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,382: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,387: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,387: root: INFO: Current backtesting datetime 2022-04-21 08:30:00-05:00
+2023-11-13 19:53:40,391: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,391: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,393: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,394: root: INFO: Current backtesting datetime 2022-04-22 08:30:00-05:00
+2023-11-13 19:53:40,397: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,398: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,399: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,400: root: INFO: Current backtesting datetime 2022-04-23 08:30:00-05:00
+2023-11-13 19:53:40,405: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:40,409: root: INFO: Current backtesting datetime 2022-04-23 08:25:00-05:00
+2023-11-13 19:53:40,412: root: INFO: Current backtesting datetime 2022-04-23 08:25:00-05:00
+2023-11-13 19:53:40,412: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:40,415: root: INFO: Current backtesting datetime 2022-04-25 07:30:00-05:00
+2023-11-13 19:53:40,415: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:40,417: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:40,421: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:40,424: root: INFO: Current backtesting datetime 2022-04-25 08:30:00-05:00
+2023-11-13 19:53:40,424: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:40,429: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,429: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,431: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,431: root: INFO: Current backtesting datetime 2022-04-26 08:30:00-05:00
+2023-11-13 19:53:40,434: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,435: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,439: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,439: root: INFO: Current backtesting datetime 2022-04-27 08:30:00-05:00
+2023-11-13 19:53:40,442: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,442: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,445: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,446: root: INFO: Current backtesting datetime 2022-04-28 08:30:00-05:00
+2023-11-13 19:53:40,449: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,449: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,456: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,456: root: INFO: Current backtesting datetime 2022-04-29 08:30:00-05:00
+2023-11-13 19:53:40,461: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,461: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,464: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,465: root: INFO: Current backtesting datetime 2022-04-30 08:30:00-05:00
+2023-11-13 19:53:40,473: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:40,477: root: INFO: Current backtesting datetime 2022-04-30 08:25:00-05:00
+2023-11-13 19:53:40,481: root: INFO: Current backtesting datetime 2022-04-30 08:25:00-05:00
+2023-11-13 19:53:40,481: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:40,485: root: INFO: Current backtesting datetime 2022-05-02 07:30:00-05:00
+2023-11-13 19:53:40,488: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:40,490: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:40,493: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:40,496: root: INFO: Current backtesting datetime 2022-05-02 08:30:00-05:00
+2023-11-13 19:53:40,496: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:40,505: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,505: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,507: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,508: root: INFO: Current backtesting datetime 2022-05-03 08:30:00-05:00
+2023-11-13 19:53:40,512: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,512: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,515: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,515: root: INFO: Current backtesting datetime 2022-05-04 08:30:00-05:00
+2023-11-13 19:53:40,526: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,526: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,529: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,530: root: INFO: Current backtesting datetime 2022-05-05 08:30:00-05:00
+2023-11-13 19:53:40,533: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,535: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,540: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,541: root: INFO: Current backtesting datetime 2022-05-06 08:30:00-05:00
+2023-11-13 19:53:40,545: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,545: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,548: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,548: root: INFO: Current backtesting datetime 2022-05-07 08:30:00-05:00
+2023-11-13 19:53:40,554: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:40,559: root: INFO: Current backtesting datetime 2022-05-07 08:25:00-05:00
+2023-11-13 19:53:40,564: root: INFO: Current backtesting datetime 2022-05-07 08:25:00-05:00
+2023-11-13 19:53:40,564: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:40,567: root: INFO: Current backtesting datetime 2022-05-09 07:30:00-05:00
+2023-11-13 19:53:40,568: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:40,570: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:40,573: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:40,575: root: INFO: Current backtesting datetime 2022-05-09 08:30:00-05:00
+2023-11-13 19:53:40,575: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:40,580: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,581: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,584: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,585: root: INFO: Current backtesting datetime 2022-05-10 08:30:00-05:00
+2023-11-13 19:53:40,590: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,591: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,593: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,594: root: INFO: Current backtesting datetime 2022-05-11 08:30:00-05:00
+2023-11-13 19:53:40,597: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,597: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,601: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,601: root: INFO: Current backtesting datetime 2022-05-12 08:30:00-05:00
+2023-11-13 19:53:40,606: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,607: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,609: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,609: root: INFO: Current backtesting datetime 2022-05-13 08:30:00-05:00
+2023-11-13 19:53:40,612: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,613: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,614: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,615: root: INFO: Current backtesting datetime 2022-05-14 08:30:00-05:00
+2023-11-13 19:53:40,618: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:40,624: root: INFO: Current backtesting datetime 2022-05-14 08:25:00-05:00
+2023-11-13 19:53:40,627: root: INFO: Current backtesting datetime 2022-05-14 08:25:00-05:00
+2023-11-13 19:53:40,627: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:40,630: root: INFO: Current backtesting datetime 2022-05-16 07:30:00-05:00
+2023-11-13 19:53:40,630: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:40,632: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:40,634: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:40,637: root: INFO: Current backtesting datetime 2022-05-16 08:30:00-05:00
+2023-11-13 19:53:40,637: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:40,639: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,639: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,640: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,641: root: INFO: Current backtesting datetime 2022-05-17 08:30:00-05:00
+2023-11-13 19:53:40,643: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,644: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,645: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,645: root: INFO: Current backtesting datetime 2022-05-18 08:30:00-05:00
+2023-11-13 19:53:40,647: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,647: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,648: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,648: root: INFO: Current backtesting datetime 2022-05-19 08:30:00-05:00
+2023-11-13 19:53:40,652: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,653: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,656: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,656: root: INFO: Current backtesting datetime 2022-05-20 08:30:00-05:00
+2023-11-13 19:53:40,658: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,658: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,659: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,659: root: INFO: Current backtesting datetime 2022-05-21 08:30:00-05:00
+2023-11-13 19:53:40,662: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:40,663: root: INFO: Current backtesting datetime 2022-05-21 08:25:00-05:00
+2023-11-13 19:53:40,666: root: INFO: Current backtesting datetime 2022-05-21 08:25:00-05:00
+2023-11-13 19:53:40,667: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:40,670: root: INFO: Current backtesting datetime 2022-05-23 07:30:00-05:00
+2023-11-13 19:53:40,671: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:40,673: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:40,675: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:40,677: root: INFO: Current backtesting datetime 2022-05-23 08:30:00-05:00
+2023-11-13 19:53:40,677: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:40,681: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,681: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,683: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,684: root: INFO: Current backtesting datetime 2022-05-24 08:30:00-05:00
+2023-11-13 19:53:40,688: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,688: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,690: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,691: root: INFO: Current backtesting datetime 2022-05-25 08:30:00-05:00
+2023-11-13 19:53:40,694: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,694: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,695: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,696: root: INFO: Current backtesting datetime 2022-05-26 08:30:00-05:00
+2023-11-13 19:53:40,699: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,699: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,702: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,703: root: INFO: Current backtesting datetime 2022-05-27 08:30:00-05:00
+2023-11-13 19:53:40,707: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,707: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,710: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,710: root: INFO: Current backtesting datetime 2022-05-28 08:30:00-05:00
+2023-11-13 19:53:40,712: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:40,715: root: INFO: Current backtesting datetime 2022-05-28 08:25:00-05:00
+2023-11-13 19:53:40,719: root: INFO: Current backtesting datetime 2022-05-28 08:25:00-05:00
+2023-11-13 19:53:40,720: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:40,721: root: INFO: Current backtesting datetime 2022-05-31 07:30:00-05:00
+2023-11-13 19:53:40,722: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:40,723: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:40,725: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:40,726: root: INFO: Current backtesting datetime 2022-05-31 08:30:00-05:00
+2023-11-13 19:53:40,726: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:40,730: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,730: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,732: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,732: root: INFO: Current backtesting datetime 2022-06-01 08:30:00-05:00
+2023-11-13 19:53:40,737: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,737: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,740: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,740: root: INFO: Current backtesting datetime 2022-06-02 08:30:00-05:00
+2023-11-13 19:53:40,743: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,743: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,744: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,744: root: INFO: Current backtesting datetime 2022-06-03 08:30:00-05:00
+2023-11-13 19:53:40,747: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,747: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,749: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,749: root: INFO: Current backtesting datetime 2022-06-04 08:30:00-05:00
+2023-11-13 19:53:40,754: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:40,758: root: INFO: Current backtesting datetime 2022-06-04 08:25:00-05:00
+2023-11-13 19:53:40,760: root: INFO: Current backtesting datetime 2022-06-04 08:25:00-05:00
+2023-11-13 19:53:40,761: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:40,762: root: INFO: Current backtesting datetime 2022-06-06 07:30:00-05:00
+2023-11-13 19:53:40,763: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:40,765: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:40,767: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:40,770: root: INFO: Current backtesting datetime 2022-06-06 08:30:00-05:00
+2023-11-13 19:53:40,770: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:40,774: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,775: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,777: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,777: root: INFO: Current backtesting datetime 2022-06-07 08:30:00-05:00
+2023-11-13 19:53:40,779: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,779: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,780: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,781: root: INFO: Current backtesting datetime 2022-06-08 08:30:00-05:00
+2023-11-13 19:53:40,784: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,785: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,788: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,789: root: INFO: Current backtesting datetime 2022-06-09 08:30:00-05:00
+2023-11-13 19:53:40,793: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,793: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,795: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,795: root: INFO: Current backtesting datetime 2022-06-10 08:30:00-05:00
+2023-11-13 19:53:40,797: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,798: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,799: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,799: root: INFO: Current backtesting datetime 2022-06-11 08:30:00-05:00
+2023-11-13 19:53:40,803: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:40,808: root: INFO: Current backtesting datetime 2022-06-11 08:25:00-05:00
+2023-11-13 19:53:40,810: root: INFO: Current backtesting datetime 2022-06-11 08:25:00-05:00
+2023-11-13 19:53:40,810: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:40,811: root: INFO: Current backtesting datetime 2022-06-13 07:30:00-05:00
+2023-11-13 19:53:40,812: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:40,813: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:40,815: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:40,818: root: INFO: Current backtesting datetime 2022-06-13 08:30:00-05:00
+2023-11-13 19:53:40,818: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:40,823: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,823: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,825: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,825: root: INFO: Current backtesting datetime 2022-06-14 08:30:00-05:00
+2023-11-13 19:53:40,827: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,828: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,829: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,829: root: INFO: Current backtesting datetime 2022-06-15 08:30:00-05:00
+2023-11-13 19:53:40,831: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,832: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,835: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,835: root: INFO: Current backtesting datetime 2022-06-16 08:30:00-05:00
+2023-11-13 19:53:40,839: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,840: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,842: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,842: root: INFO: Current backtesting datetime 2022-06-17 08:30:00-05:00
+2023-11-13 19:53:40,844: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,844: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,846: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,846: root: INFO: Current backtesting datetime 2022-06-18 08:30:00-05:00
+2023-11-13 19:53:40,849: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:40,854: root: INFO: Current backtesting datetime 2022-06-18 08:25:00-05:00
+2023-11-13 19:53:40,857: root: INFO: Current backtesting datetime 2022-06-18 08:25:00-05:00
+2023-11-13 19:53:40,858: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:40,859: root: INFO: Current backtesting datetime 2022-06-21 07:30:00-05:00
+2023-11-13 19:53:40,859: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:40,861: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:40,863: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:40,864: root: INFO: Current backtesting datetime 2022-06-21 08:30:00-05:00
+2023-11-13 19:53:40,864: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:40,871: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,872: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,874: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,874: root: INFO: Current backtesting datetime 2022-06-22 08:30:00-05:00
+2023-11-13 19:53:40,877: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,877: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,879: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,879: root: INFO: Current backtesting datetime 2022-06-23 08:30:00-05:00
+2023-11-13 19:53:40,881: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,882: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,883: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,883: root: INFO: Current backtesting datetime 2022-06-24 08:30:00-05:00
+2023-11-13 19:53:40,887: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,888: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,889: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,889: root: INFO: Current backtesting datetime 2022-06-25 08:30:00-05:00
+2023-11-13 19:53:40,891: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:40,894: root: INFO: Current backtesting datetime 2022-06-25 08:25:00-05:00
+2023-11-13 19:53:40,896: root: INFO: Current backtesting datetime 2022-06-25 08:25:00-05:00
+2023-11-13 19:53:40,896: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:40,898: root: INFO: Current backtesting datetime 2022-06-27 07:30:00-05:00
+2023-11-13 19:53:40,898: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:40,900: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:40,903: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:40,906: root: INFO: Current backtesting datetime 2022-06-27 08:30:00-05:00
+2023-11-13 19:53:40,906: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:40,910: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,911: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,913: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,913: root: INFO: Current backtesting datetime 2022-06-28 08:30:00-05:00
+2023-11-13 19:53:40,918: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,918: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,922: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,922: root: INFO: Current backtesting datetime 2022-06-29 08:30:00-05:00
+2023-11-13 19:53:40,927: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,927: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,930: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,931: root: INFO: Current backtesting datetime 2022-06-30 08:30:00-05:00
+2023-11-13 19:53:40,935: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,935: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,938: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,938: root: INFO: Current backtesting datetime 2022-07-01 08:30:00-05:00
+2023-11-13 19:53:40,942: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,942: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,945: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,945: root: INFO: Current backtesting datetime 2022-07-02 08:30:00-05:00
+2023-11-13 19:53:40,948: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:40,954: root: INFO: Current backtesting datetime 2022-07-02 08:25:00-05:00
+2023-11-13 19:53:40,960: root: INFO: Current backtesting datetime 2022-07-02 08:25:00-05:00
+2023-11-13 19:53:40,960: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:40,962: root: INFO: Current backtesting datetime 2022-07-05 07:30:00-05:00
+2023-11-13 19:53:40,962: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:40,963: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:40,965: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:40,968: root: INFO: Current backtesting datetime 2022-07-05 08:30:00-05:00
+2023-11-13 19:53:40,969: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:40,973: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,973: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,974: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,974: root: INFO: Current backtesting datetime 2022-07-06 08:30:00-05:00
+2023-11-13 19:53:40,976: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,976: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,978: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,978: root: INFO: Current backtesting datetime 2022-07-07 08:30:00-05:00
+2023-11-13 19:53:40,980: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,981: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,982: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,983: root: INFO: Current backtesting datetime 2022-07-08 08:30:00-05:00
+2023-11-13 19:53:40,987: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,988: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:40[0m
+2023-11-13 19:53:40,990: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:40,990: root: INFO: Current backtesting datetime 2022-07-09 08:30:00-05:00
+2023-11-13 19:53:40,993: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:40,995: root: INFO: Current backtesting datetime 2022-07-09 08:25:00-05:00
+2023-11-13 19:53:40,997: root: INFO: Current backtesting datetime 2022-07-09 08:25:00-05:00
+2023-11-13 19:53:40,997: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:40,999: root: INFO: Current backtesting datetime 2022-07-11 07:30:00-05:00
+2023-11-13 19:53:41,000: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:41,003: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:41,006: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:41,009: root: INFO: Current backtesting datetime 2022-07-11 08:30:00-05:00
+2023-11-13 19:53:41,009: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:41,012: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,012: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,015: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,015: root: INFO: Current backtesting datetime 2022-07-12 08:30:00-05:00
+2023-11-13 19:53:41,019: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,019: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,022: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,023: root: INFO: Current backtesting datetime 2022-07-13 08:30:00-05:00
+2023-11-13 19:53:41,026: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,026: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,029: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,029: root: INFO: Current backtesting datetime 2022-07-14 08:30:00-05:00
+2023-11-13 19:53:41,031: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,031: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,034: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,035: root: INFO: Current backtesting datetime 2022-07-15 08:30:00-05:00
+2023-11-13 19:53:41,039: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,039: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,042: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,042: root: INFO: Current backtesting datetime 2022-07-16 08:30:00-05:00
+2023-11-13 19:53:41,045: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:41,049: root: INFO: Current backtesting datetime 2022-07-16 08:25:00-05:00
+2023-11-13 19:53:41,055: root: INFO: Current backtesting datetime 2022-07-16 08:25:00-05:00
+2023-11-13 19:53:41,055: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:41,057: root: INFO: Current backtesting datetime 2022-07-18 07:30:00-05:00
+2023-11-13 19:53:41,058: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:41,059: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:41,061: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:41,063: root: INFO: Current backtesting datetime 2022-07-18 08:30:00-05:00
+2023-11-13 19:53:41,063: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:41,067: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,067: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,069: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,070: root: INFO: Current backtesting datetime 2022-07-19 08:30:00-05:00
+2023-11-13 19:53:41,076: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,076: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,078: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,078: root: INFO: Current backtesting datetime 2022-07-20 08:30:00-05:00
+2023-11-13 19:53:41,081: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,081: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,083: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,083: root: INFO: Current backtesting datetime 2022-07-21 08:30:00-05:00
+2023-11-13 19:53:41,088: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,089: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,091: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,092: root: INFO: Current backtesting datetime 2022-07-22 08:30:00-05:00
+2023-11-13 19:53:41,095: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,096: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,099: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,100: root: INFO: Current backtesting datetime 2022-07-23 08:30:00-05:00
+2023-11-13 19:53:41,106: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:41,116: root: INFO: Current backtesting datetime 2022-07-23 08:25:00-05:00
+2023-11-13 19:53:41,123: root: INFO: Current backtesting datetime 2022-07-23 08:25:00-05:00
+2023-11-13 19:53:41,124: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:41,129: root: INFO: Current backtesting datetime 2022-07-25 07:30:00-05:00
+2023-11-13 19:53:41,130: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:41,132: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:41,138: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:41,141: root: INFO: Current backtesting datetime 2022-07-25 08:30:00-05:00
+2023-11-13 19:53:41,141: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:41,146: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,147: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,151: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,151: root: INFO: Current backtesting datetime 2022-07-26 08:30:00-05:00
+2023-11-13 19:53:41,156: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,156: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,188: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,188: root: INFO: Current backtesting datetime 2022-07-27 08:30:00-05:00
+2023-11-13 19:53:41,192: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,192: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,195: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,196: root: INFO: Current backtesting datetime 2022-07-28 08:30:00-05:00
+2023-11-13 19:53:41,198: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,198: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,200: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,200: root: INFO: Current backtesting datetime 2022-07-29 08:30:00-05:00
+2023-11-13 19:53:41,204: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,204: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,206: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,207: root: INFO: Current backtesting datetime 2022-07-30 08:30:00-05:00
+2023-11-13 19:53:41,211: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:41,215: root: INFO: Current backtesting datetime 2022-07-30 08:25:00-05:00
+2023-11-13 19:53:41,222: root: INFO: Current backtesting datetime 2022-07-30 08:25:00-05:00
+2023-11-13 19:53:41,223: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:41,225: root: INFO: Current backtesting datetime 2022-08-01 07:30:00-05:00
+2023-11-13 19:53:41,225: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:41,237: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:41,239: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:41,242: root: INFO: Current backtesting datetime 2022-08-01 08:30:00-05:00
+2023-11-13 19:53:41,242: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:41,249: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,249: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,253: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,253: root: INFO: Current backtesting datetime 2022-08-02 08:30:00-05:00
+2023-11-13 19:53:41,258: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,259: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,262: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,263: root: INFO: Current backtesting datetime 2022-08-03 08:30:00-05:00
+2023-11-13 19:53:41,268: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,268: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,273: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,273: root: INFO: Current backtesting datetime 2022-08-04 08:30:00-05:00
+2023-11-13 19:53:41,278: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,278: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,282: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,283: root: INFO: Current backtesting datetime 2022-08-05 08:30:00-05:00
+2023-11-13 19:53:41,287: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,288: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,293: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,294: root: INFO: Current backtesting datetime 2022-08-06 08:30:00-05:00
+2023-11-13 19:53:41,298: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:41,304: root: INFO: Current backtesting datetime 2022-08-06 08:25:00-05:00
+2023-11-13 19:53:41,308: root: INFO: Current backtesting datetime 2022-08-06 08:25:00-05:00
+2023-11-13 19:53:41,308: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:41,310: root: INFO: Current backtesting datetime 2022-08-08 07:30:00-05:00
+2023-11-13 19:53:41,311: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:41,312: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:41,313: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:41,314: root: INFO: Current backtesting datetime 2022-08-08 08:30:00-05:00
+2023-11-13 19:53:41,314: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:41,321: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,322: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,324: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,324: root: INFO: Current backtesting datetime 2022-08-09 08:30:00-05:00
+2023-11-13 19:53:41,327: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,327: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,328: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,328: root: INFO: Current backtesting datetime 2022-08-10 08:30:00-05:00
+2023-11-13 19:53:41,330: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,331: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,333: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,334: root: INFO: Current backtesting datetime 2022-08-11 08:30:00-05:00
+2023-11-13 19:53:41,339: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,339: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,342: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,342: root: INFO: Current backtesting datetime 2022-08-12 08:30:00-05:00
+2023-11-13 19:53:41,344: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,344: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,346: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,346: root: INFO: Current backtesting datetime 2022-08-13 08:30:00-05:00
+2023-11-13 19:53:41,351: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:41,357: root: INFO: Current backtesting datetime 2022-08-13 08:25:00-05:00
+2023-11-13 19:53:41,361: root: INFO: Current backtesting datetime 2022-08-13 08:25:00-05:00
+2023-11-13 19:53:41,361: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:41,363: root: INFO: Current backtesting datetime 2022-08-15 07:30:00-05:00
+2023-11-13 19:53:41,364: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:41,366: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:41,370: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:41,374: root: INFO: Current backtesting datetime 2022-08-15 08:30:00-05:00
+2023-11-13 19:53:41,374: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:41,380: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,380: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,384: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,384: root: INFO: Current backtesting datetime 2022-08-16 08:30:00-05:00
+2023-11-13 19:53:41,388: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,389: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,391: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,392: root: INFO: Current backtesting datetime 2022-08-17 08:30:00-05:00
+2023-11-13 19:53:41,395: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,395: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,398: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,398: root: INFO: Current backtesting datetime 2022-08-18 08:30:00-05:00
+2023-11-13 19:53:41,403: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,404: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,407: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,408: root: INFO: Current backtesting datetime 2022-08-19 08:30:00-05:00
+2023-11-13 19:53:41,411: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,411: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,414: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,414: root: INFO: Current backtesting datetime 2022-08-20 08:30:00-05:00
+2023-11-13 19:53:41,418: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:41,424: root: INFO: Current backtesting datetime 2022-08-20 08:25:00-05:00
+2023-11-13 19:53:41,428: root: INFO: Current backtesting datetime 2022-08-20 08:25:00-05:00
+2023-11-13 19:53:41,428: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:41,431: root: INFO: Current backtesting datetime 2022-08-22 07:30:00-05:00
+2023-11-13 19:53:41,431: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:41,434: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:41,437: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:41,440: root: INFO: Current backtesting datetime 2022-08-22 08:30:00-05:00
+2023-11-13 19:53:41,440: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:41,447: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,447: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,449: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,450: root: INFO: Current backtesting datetime 2022-08-23 08:30:00-05:00
+2023-11-13 19:53:41,455: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,455: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,457: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,458: root: INFO: Current backtesting datetime 2022-08-24 08:30:00-05:00
+2023-11-13 19:53:41,461: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,461: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,463: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,463: root: INFO: Current backtesting datetime 2022-08-25 08:30:00-05:00
+2023-11-13 19:53:41,466: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,466: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,468: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,469: root: INFO: Current backtesting datetime 2022-08-26 08:30:00-05:00
+2023-11-13 19:53:41,473: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,474: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,475: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,475: root: INFO: Current backtesting datetime 2022-08-27 08:30:00-05:00
+2023-11-13 19:53:41,478: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:41,480: root: INFO: Current backtesting datetime 2022-08-27 08:25:00-05:00
+2023-11-13 19:53:41,484: root: INFO: Current backtesting datetime 2022-08-27 08:25:00-05:00
+2023-11-13 19:53:41,485: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:41,488: root: INFO: Current backtesting datetime 2022-08-29 07:30:00-05:00
+2023-11-13 19:53:41,488: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:41,490: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:41,492: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:41,493: root: INFO: Current backtesting datetime 2022-08-29 08:30:00-05:00
+2023-11-13 19:53:41,493: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:41,496: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,497: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,499: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,499: root: INFO: Current backtesting datetime 2022-08-30 08:30:00-05:00
+2023-11-13 19:53:41,505: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,505: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,508: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,508: root: INFO: Current backtesting datetime 2022-08-31 08:30:00-05:00
+2023-11-13 19:53:41,511: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,511: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,513: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,513: root: INFO: Current backtesting datetime 2022-09-01 08:30:00-05:00
+2023-11-13 19:53:41,516: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,516: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,520: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,521: root: INFO: Current backtesting datetime 2022-09-02 08:30:00-05:00
+2023-11-13 19:53:41,523: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,524: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,526: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,526: root: INFO: Current backtesting datetime 2022-09-03 08:30:00-05:00
+2023-11-13 19:53:41,529: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:41,532: root: INFO: Current backtesting datetime 2022-09-03 08:25:00-05:00
+2023-11-13 19:53:41,537: root: INFO: Current backtesting datetime 2022-09-03 08:25:00-05:00
+2023-11-13 19:53:41,537: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:41,540: root: INFO: Current backtesting datetime 2022-09-06 07:30:00-05:00
+2023-11-13 19:53:41,541: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:41,542: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:41,544: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:41,546: root: INFO: Current backtesting datetime 2022-09-06 08:30:00-05:00
+2023-11-13 19:53:41,546: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:41,553: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,553: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,556: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,556: root: INFO: Current backtesting datetime 2022-09-07 08:30:00-05:00
+2023-11-13 19:53:41,559: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,560: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,561: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,561: root: INFO: Current backtesting datetime 2022-09-08 08:30:00-05:00
+2023-11-13 19:53:41,565: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,565: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,568: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,569: root: INFO: Current backtesting datetime 2022-09-09 08:30:00-05:00
+2023-11-13 19:53:41,574: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,575: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,577: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,577: root: INFO: Current backtesting datetime 2022-09-10 08:30:00-05:00
+2023-11-13 19:53:41,580: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:41,586: root: INFO: Current backtesting datetime 2022-09-10 08:25:00-05:00
+2023-11-13 19:53:41,592: root: INFO: Current backtesting datetime 2022-09-10 08:25:00-05:00
+2023-11-13 19:53:41,592: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:41,594: root: INFO: Current backtesting datetime 2022-09-12 07:30:00-05:00
+2023-11-13 19:53:41,595: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:41,596: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:41,598: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:41,601: root: INFO: Current backtesting datetime 2022-09-12 08:30:00-05:00
+2023-11-13 19:53:41,601: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:41,609: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,610: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,612: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,613: root: INFO: Current backtesting datetime 2022-09-13 08:30:00-05:00
+2023-11-13 19:53:41,619: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,620: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,623: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,623: root: INFO: Current backtesting datetime 2022-09-14 08:30:00-05:00
+2023-11-13 19:53:41,627: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,627: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,631: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,631: root: INFO: Current backtesting datetime 2022-09-15 08:30:00-05:00
+2023-11-13 19:53:41,636: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,636: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,640: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,641: root: INFO: Current backtesting datetime 2022-09-16 08:30:00-05:00
+2023-11-13 19:53:41,643: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,644: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,647: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,647: root: INFO: Current backtesting datetime 2022-09-17 08:30:00-05:00
+2023-11-13 19:53:41,651: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:41,658: root: INFO: Current backtesting datetime 2022-09-17 08:25:00-05:00
+2023-11-13 19:53:41,662: root: INFO: Current backtesting datetime 2022-09-17 08:25:00-05:00
+2023-11-13 19:53:41,662: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:41,664: root: INFO: Current backtesting datetime 2022-09-19 07:30:00-05:00
+2023-11-13 19:53:41,665: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:41,668: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:41,671: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:41,675: root: INFO: Current backtesting datetime 2022-09-19 08:30:00-05:00
+2023-11-13 19:53:41,675: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:41,682: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,682: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,685: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,686: root: INFO: Current backtesting datetime 2022-09-20 08:30:00-05:00
+2023-11-13 19:53:41,693: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,693: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,695: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,696: root: INFO: Current backtesting datetime 2022-09-21 08:30:00-05:00
+2023-11-13 19:53:41,699: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,700: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,703: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,703: root: INFO: Current backtesting datetime 2022-09-22 08:30:00-05:00
+2023-11-13 19:53:41,708: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,708: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,711: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,712: root: INFO: Current backtesting datetime 2022-09-23 08:30:00-05:00
+2023-11-13 19:53:41,716: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,716: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,721: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,722: root: INFO: Current backtesting datetime 2022-09-24 08:30:00-05:00
+2023-11-13 19:53:41,729: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:41,739: root: INFO: Current backtesting datetime 2022-09-24 08:25:00-05:00
+2023-11-13 19:53:41,743: root: INFO: Current backtesting datetime 2022-09-24 08:25:00-05:00
+2023-11-13 19:53:41,743: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:41,746: root: INFO: Current backtesting datetime 2022-09-26 07:30:00-05:00
+2023-11-13 19:53:41,747: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:41,749: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:41,754: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:41,758: root: INFO: Current backtesting datetime 2022-09-26 08:30:00-05:00
+2023-11-13 19:53:41,759: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:41,769: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,770: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,774: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,775: root: INFO: Current backtesting datetime 2022-09-27 08:30:00-05:00
+2023-11-13 19:53:41,779: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,779: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,783: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,784: root: INFO: Current backtesting datetime 2022-09-28 08:30:00-05:00
+2023-11-13 19:53:41,790: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,791: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,794: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,794: root: INFO: Current backtesting datetime 2022-09-29 08:30:00-05:00
+2023-11-13 19:53:41,799: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,799: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,803: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,804: root: INFO: Current backtesting datetime 2022-09-30 08:30:00-05:00
+2023-11-13 19:53:41,806: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,806: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,807: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,807: root: INFO: Current backtesting datetime 2022-10-01 08:30:00-05:00
+2023-11-13 19:53:41,810: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:41,812: root: INFO: Current backtesting datetime 2022-10-01 08:25:00-05:00
+2023-11-13 19:53:41,815: root: INFO: Current backtesting datetime 2022-10-01 08:25:00-05:00
+2023-11-13 19:53:41,816: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:41,819: root: INFO: Current backtesting datetime 2022-10-03 07:30:00-05:00
+2023-11-13 19:53:41,820: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:41,821: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:41,823: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:41,824: root: INFO: Current backtesting datetime 2022-10-03 08:30:00-05:00
+2023-11-13 19:53:41,824: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:41,828: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,828: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,830: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,831: root: INFO: Current backtesting datetime 2022-10-04 08:30:00-05:00
+2023-11-13 19:53:41,835: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,835: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,840: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,840: root: INFO: Current backtesting datetime 2022-10-05 08:30:00-05:00
+2023-11-13 19:53:41,844: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,845: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,848: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,849: root: INFO: Current backtesting datetime 2022-10-06 08:30:00-05:00
+2023-11-13 19:53:41,855: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,855: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,859: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,859: root: INFO: Current backtesting datetime 2022-10-07 08:30:00-05:00
+2023-11-13 19:53:41,863: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,863: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,870: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,870: root: INFO: Current backtesting datetime 2022-10-08 08:30:00-05:00
+2023-11-13 19:53:41,875: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:41,879: root: INFO: Current backtesting datetime 2022-10-08 08:25:00-05:00
+2023-11-13 19:53:41,884: root: INFO: Current backtesting datetime 2022-10-08 08:25:00-05:00
+2023-11-13 19:53:41,884: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:41,889: root: INFO: Current backtesting datetime 2022-10-10 07:30:00-05:00
+2023-11-13 19:53:41,890: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:41,891: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:41,893: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:41,896: root: INFO: Current backtesting datetime 2022-10-10 08:30:00-05:00
+2023-11-13 19:53:41,896: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:41,904: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,904: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,907: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,907: root: INFO: Current backtesting datetime 2022-10-11 08:30:00-05:00
+2023-11-13 19:53:41,912: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,912: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,915: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,916: root: INFO: Current backtesting datetime 2022-10-12 08:30:00-05:00
+2023-11-13 19:53:41,921: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,921: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,925: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,925: root: INFO: Current backtesting datetime 2022-10-13 08:30:00-05:00
+2023-11-13 19:53:41,928: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,928: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,930: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,931: root: INFO: Current backtesting datetime 2022-10-14 08:30:00-05:00
+2023-11-13 19:53:41,935: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,935: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,938: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,938: root: INFO: Current backtesting datetime 2022-10-15 08:30:00-05:00
+2023-11-13 19:53:41,940: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:41,943: root: INFO: Current backtesting datetime 2022-10-15 08:25:00-05:00
+2023-11-13 19:53:41,947: root: INFO: Current backtesting datetime 2022-10-15 08:25:00-05:00
+2023-11-13 19:53:41,947: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:41,948: root: INFO: Current backtesting datetime 2022-10-17 07:30:00-05:00
+2023-11-13 19:53:41,949: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:41,952: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:41,955: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:41,957: root: INFO: Current backtesting datetime 2022-10-17 08:30:00-05:00
+2023-11-13 19:53:41,957: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:41,961: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,962: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,964: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,964: root: INFO: Current backtesting datetime 2022-10-18 08:30:00-05:00
+2023-11-13 19:53:41,968: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,969: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,971: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,971: root: INFO: Current backtesting datetime 2022-10-19 08:30:00-05:00
+2023-11-13 19:53:41,973: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,973: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,974: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,975: root: INFO: Current backtesting datetime 2022-10-20 08:30:00-05:00
+2023-11-13 19:53:41,978: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,978: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,979: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,979: root: INFO: Current backtesting datetime 2022-10-21 08:30:00-05:00
+2023-11-13 19:53:41,982: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,983: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:41[0m
+2023-11-13 19:53:41,986: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:41,986: root: INFO: Current backtesting datetime 2022-10-22 08:30:00-05:00
+2023-11-13 19:53:41,989: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:41,991: root: INFO: Current backtesting datetime 2022-10-22 08:25:00-05:00
+2023-11-13 19:53:41,994: root: INFO: Current backtesting datetime 2022-10-22 08:25:00-05:00
+2023-11-13 19:53:41,994: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:41,995: root: INFO: Current backtesting datetime 2022-10-24 07:30:00-05:00
+2023-11-13 19:53:41,996: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:41,997: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:41,999: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:42,002: root: INFO: Current backtesting datetime 2022-10-24 08:30:00-05:00
+2023-11-13 19:53:42,003: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:42,008: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,009: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,010: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,010: root: INFO: Current backtesting datetime 2022-10-25 08:30:00-05:00
+2023-11-13 19:53:42,013: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,014: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,017: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,018: root: INFO: Current backtesting datetime 2022-10-26 08:30:00-05:00
+2023-11-13 19:53:42,022: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,023: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,025: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,025: root: INFO: Current backtesting datetime 2022-10-27 08:30:00-05:00
+2023-11-13 19:53:42,028: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,028: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,030: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,030: root: INFO: Current backtesting datetime 2022-10-28 08:30:00-05:00
+2023-11-13 19:53:42,034: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,035: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,038: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,038: root: INFO: Current backtesting datetime 2022-10-29 08:30:00-05:00
+2023-11-13 19:53:42,042: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:42,046: root: INFO: Current backtesting datetime 2022-10-29 08:25:00-05:00
+2023-11-13 19:53:42,048: root: INFO: Current backtesting datetime 2022-10-29 08:25:00-05:00
+2023-11-13 19:53:42,048: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:42,052: root: INFO: Current backtesting datetime 2022-10-31 07:30:00-05:00
+2023-11-13 19:53:42,053: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:42,054: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:42,056: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:42,057: root: INFO: Current backtesting datetime 2022-10-31 08:30:00-05:00
+2023-11-13 19:53:42,057: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:42,061: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,061: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,062: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,063: root: INFO: Current backtesting datetime 2022-11-01 08:30:00-05:00
+2023-11-13 19:53:42,067: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,067: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,071: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,071: root: INFO: Current backtesting datetime 2022-11-02 08:30:00-05:00
+2023-11-13 19:53:42,073: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,073: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,075: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,075: root: INFO: Current backtesting datetime 2022-11-03 08:30:00-05:00
+2023-11-13 19:53:42,078: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,079: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,080: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,081: root: INFO: Current backtesting datetime 2022-11-04 08:30:00-05:00
+2023-11-13 19:53:42,085: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,086: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,089: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,090: root: INFO: Current backtesting datetime 2022-11-05 08:30:00-05:00
+2023-11-13 19:53:42,094: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:42,097: root: INFO: Current backtesting datetime 2022-11-05 08:25:00-05:00
+2023-11-13 19:53:42,100: root: INFO: Current backtesting datetime 2022-11-05 08:25:00-05:00
+2023-11-13 19:53:42,101: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:42,104: root: INFO: Current backtesting datetime 2022-11-07 08:30:00-05:00
+2023-11-13 19:53:42,104: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:42,105: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:42,107: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:42,110: root: INFO: Current backtesting datetime 2022-11-07 09:30:00-05:00
+2023-11-13 19:53:42,110: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:42,113: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,113: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,115: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,115: root: INFO: Current backtesting datetime 2022-11-08 09:30:00-05:00
+2023-11-13 19:53:42,120: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,121: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,124: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,124: root: INFO: Current backtesting datetime 2022-11-09 09:30:00-05:00
+2023-11-13 19:53:42,126: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,126: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,128: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,128: root: INFO: Current backtesting datetime 2022-11-10 09:30:00-05:00
+2023-11-13 19:53:42,131: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,132: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,135: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,136: root: INFO: Current backtesting datetime 2022-11-11 09:30:00-05:00
+2023-11-13 19:53:42,139: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,139: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,140: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,141: root: INFO: Current backtesting datetime 2022-11-12 09:30:00-05:00
+2023-11-13 19:53:42,143: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:42,145: root: INFO: Current backtesting datetime 2022-11-12 09:25:00-05:00
+2023-11-13 19:53:42,149: root: INFO: Current backtesting datetime 2022-11-12 09:25:00-05:00
+2023-11-13 19:53:42,149: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:42,152: root: INFO: Current backtesting datetime 2022-11-14 08:30:00-05:00
+2023-11-13 19:53:42,153: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:42,154: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:42,156: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:42,157: root: INFO: Current backtesting datetime 2022-11-14 09:30:00-05:00
+2023-11-13 19:53:42,157: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:42,161: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,161: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,163: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,163: root: INFO: Current backtesting datetime 2022-11-15 09:30:00-05:00
+2023-11-13 19:53:42,167: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,168: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,170: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,171: root: INFO: Current backtesting datetime 2022-11-16 09:30:00-05:00
+2023-11-13 19:53:42,174: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,174: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,176: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,177: root: INFO: Current backtesting datetime 2022-11-17 09:30:00-05:00
+2023-11-13 19:53:42,179: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,179: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,181: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,181: root: INFO: Current backtesting datetime 2022-11-18 09:30:00-05:00
+2023-11-13 19:53:42,185: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,186: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,188: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,189: root: INFO: Current backtesting datetime 2022-11-19 09:30:00-05:00
+2023-11-13 19:53:42,191: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:42,195: root: INFO: Current backtesting datetime 2022-11-19 09:25:00-05:00
+2023-11-13 19:53:42,198: root: INFO: Current backtesting datetime 2022-11-19 09:25:00-05:00
+2023-11-13 19:53:42,198: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:42,202: root: INFO: Current backtesting datetime 2022-11-21 08:30:00-05:00
+2023-11-13 19:53:42,202: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:42,204: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:42,206: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:42,208: root: INFO: Current backtesting datetime 2022-11-21 09:30:00-05:00
+2023-11-13 19:53:42,209: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:42,213: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,213: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,215: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,216: root: INFO: Current backtesting datetime 2022-11-22 09:30:00-05:00
+2023-11-13 19:53:42,220: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,220: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,222: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,222: root: INFO: Current backtesting datetime 2022-11-23 09:30:00-05:00
+2023-11-13 19:53:42,225: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,225: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,226: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,226: root: INFO: Current backtesting datetime 2022-11-24 09:30:00-05:00
+2023-11-13 19:53:42,229: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:42,233: root: INFO: Current backtesting datetime 2022-11-24 09:25:00-05:00
+2023-11-13 19:53:42,237: root: INFO: Current backtesting datetime 2022-11-24 09:25:00-05:00
+2023-11-13 19:53:42,237: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:42,239: root: INFO: Current backtesting datetime 2022-11-25 08:30:00-05:00
+2023-11-13 19:53:42,239: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:42,241: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:42,243: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:42,245: root: INFO: Current backtesting datetime 2022-11-25 09:30:00-05:00
+2023-11-13 19:53:42,246: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:42,252: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,253: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,256: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,256: root: INFO: Current backtesting datetime 2022-11-26 09:30:00-05:00
+2023-11-13 19:53:42,260: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:42,263: root: INFO: Current backtesting datetime 2022-11-26 09:25:00-05:00
+2023-11-13 19:53:42,265: root: INFO: Current backtesting datetime 2022-11-26 09:25:00-05:00
+2023-11-13 19:53:42,265: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:42,269: root: INFO: Current backtesting datetime 2022-11-28 08:30:00-05:00
+2023-11-13 19:53:42,269: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:42,270: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:42,272: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:42,274: root: INFO: Current backtesting datetime 2022-11-28 09:30:00-05:00
+2023-11-13 19:53:42,274: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:42,279: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,279: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,281: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,282: root: INFO: Current backtesting datetime 2022-11-29 09:30:00-05:00
+2023-11-13 19:53:42,285: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,286: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,289: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,289: root: INFO: Current backtesting datetime 2022-11-30 09:30:00-05:00
+2023-11-13 19:53:42,292: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,292: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,294: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,294: root: INFO: Current backtesting datetime 2022-12-01 09:30:00-05:00
+2023-11-13 19:53:42,298: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,299: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,302: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,302: root: INFO: Current backtesting datetime 2022-12-02 09:30:00-05:00
+2023-11-13 19:53:42,305: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,305: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,306: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,307: root: INFO: Current backtesting datetime 2022-12-03 09:30:00-05:00
+2023-11-13 19:53:42,309: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:42,311: root: INFO: Current backtesting datetime 2022-12-03 09:25:00-05:00
+2023-11-13 19:53:42,313: root: INFO: Current backtesting datetime 2022-12-03 09:25:00-05:00
+2023-11-13 19:53:42,313: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:42,316: root: INFO: Current backtesting datetime 2022-12-05 08:30:00-05:00
+2023-11-13 19:53:42,317: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:42,319: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:42,321: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:42,323: root: INFO: Current backtesting datetime 2022-12-05 09:30:00-05:00
+2023-11-13 19:53:42,323: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:42,327: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,327: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,328: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,328: root: INFO: Current backtesting datetime 2022-12-06 09:30:00-05:00
+2023-11-13 19:53:42,331: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,331: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,334: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,335: root: INFO: Current backtesting datetime 2022-12-07 09:30:00-05:00
+2023-11-13 19:53:42,339: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,339: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,341: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,341: root: INFO: Current backtesting datetime 2022-12-08 09:30:00-05:00
+2023-11-13 19:53:42,344: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,344: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,346: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,346: root: INFO: Current backtesting datetime 2022-12-09 09:30:00-05:00
+2023-11-13 19:53:42,350: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,351: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,354: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,354: root: INFO: Current backtesting datetime 2022-12-10 09:30:00-05:00
+2023-11-13 19:53:42,356: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:42,359: root: INFO: Current backtesting datetime 2022-12-10 09:25:00-05:00
+2023-11-13 19:53:42,363: root: INFO: Current backtesting datetime 2022-12-10 09:25:00-05:00
+2023-11-13 19:53:42,363: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:42,366: root: INFO: Current backtesting datetime 2022-12-12 08:30:00-05:00
+2023-11-13 19:53:42,367: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:42,369: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:42,372: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:42,375: root: INFO: Current backtesting datetime 2022-12-12 09:30:00-05:00
+2023-11-13 19:53:42,375: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:42,379: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,379: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,382: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,383: root: INFO: Current backtesting datetime 2022-12-13 09:30:00-05:00
+2023-11-13 19:53:42,387: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,387: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,389: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,389: root: INFO: Current backtesting datetime 2022-12-14 09:30:00-05:00
+2023-11-13 19:53:42,391: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,391: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,392: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,393: root: INFO: Current backtesting datetime 2022-12-15 09:30:00-05:00
+2023-11-13 19:53:42,396: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,396: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,398: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,399: root: INFO: Current backtesting datetime 2022-12-16 09:30:00-05:00
+2023-11-13 19:53:42,403: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,403: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,405: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,405: root: INFO: Current backtesting datetime 2022-12-17 09:30:00-05:00
+2023-11-13 19:53:42,408: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:42,412: root: INFO: Current backtesting datetime 2022-12-17 09:25:00-05:00
+2023-11-13 19:53:42,415: root: INFO: Current backtesting datetime 2022-12-17 09:25:00-05:00
+2023-11-13 19:53:42,415: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:42,420: root: INFO: Current backtesting datetime 2022-12-19 08:30:00-05:00
+2023-11-13 19:53:42,420: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:42,422: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:42,425: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:42,427: root: INFO: Current backtesting datetime 2022-12-19 09:30:00-05:00
+2023-11-13 19:53:42,427: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:42,435: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,435: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,438: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,439: root: INFO: Current backtesting datetime 2022-12-20 09:30:00-05:00
+2023-11-13 19:53:42,443: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,444: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,446: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,447: root: INFO: Current backtesting datetime 2022-12-21 09:30:00-05:00
+2023-11-13 19:53:42,454: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,454: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,456: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,457: root: INFO: Current backtesting datetime 2022-12-22 09:30:00-05:00
+2023-11-13 19:53:42,460: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,460: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,464: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,464: root: INFO: Current backtesting datetime 2022-12-23 09:30:00-05:00
+2023-11-13 19:53:42,471: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,471: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,474: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,475: root: INFO: Current backtesting datetime 2022-12-24 09:30:00-05:00
+2023-11-13 19:53:42,478: root: INFO: [34mBuyHold : The market is not currently open, skipping this trading iteration[0m
+2023-11-13 19:53:42,483: root: INFO: Current backtesting datetime 2022-12-24 09:25:00-05:00
+2023-11-13 19:53:42,489: root: INFO: Current backtesting datetime 2022-12-24 09:25:00-05:00
+2023-11-13 19:53:42,489: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:42,493: root: INFO: Current backtesting datetime 2022-12-27 08:30:00-05:00
+2023-11-13 19:53:42,494: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:42,495: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2023-11-13 19:53:42,498: root: INFO: BuyHold : Executing the before_market_opens lifecycle method
+2023-11-13 19:53:42,501: root: INFO: Current backtesting datetime 2022-12-27 09:30:00-05:00
+2023-11-13 19:53:42,501: root: INFO: BuyHold : Executing the before_starting_trading lifecycle method
+2023-11-13 19:53:42,509: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,509: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,512: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,512: root: INFO: Current backtesting datetime 2022-12-28 09:30:00-05:00
+2023-11-13 19:53:42,516: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,516: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,520: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,521: root: INFO: Current backtesting datetime 2022-12-29 09:30:00-05:00
+2023-11-13 19:53:42,526: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,526: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,530: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,530: root: INFO: Current backtesting datetime 2022-12-30 09:30:00-05:00
+2023-11-13 19:53:42,537: root: INFO: [34mBuyHold : Executing the on_trading_iteration lifecycle method at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,537: root: INFO: [34mBuyHold : Trading iteration ended at 2023-11-13 19:53:42[0m
+2023-11-13 19:53:42,539: root: INFO: BuyHold : [34mSleeping for 86400 seconds[0m
+2023-11-13 19:53:42,540: root: INFO: Current backtesting datetime 2022-12-31 09:30:00-05:00
+2023-11-13 19:53:42,543: root: INFO: Current backtesting datetime 2022-12-31 09:25:00-05:00
+2023-11-13 19:53:42,549: root: INFO: Current backtesting datetime 2022-12-31 09:25:00-05:00
+2023-11-13 19:53:42,549: root: INFO: BuyHold : Executing the after_market_closes lifecycle method
+2023-11-13 19:53:42,550: root: INFO: BuyHold : Executing the on_strategy_end lifecycle method
+2023-11-13 19:53:43,193: root: INFO: Backtesting finished
+2023-11-13 19:53:54,636: backtest_stats: INFO: Backtest took 0:00:21.116411 for a speed of 0.000
