@@ -12,11 +12,11 @@ SECRET_KEY = "WbIZu5kHkPUReBnwV3TOZZ7qAVs3vXHaP0qB8ZdC"
 trade_taken = False
  
 # instantiate REST API
-api = tradeapi.REST(base_url=base_url, APCA_API_KEY_ID=API_KEY, APCA_API_SECRET_KEY=SECRET_KEY, api_version='v2')
+api = tradeapi.REST(base_url=base_url, key_id=API_KEY, secret_key=SECRET_KEY, api_version='v2')
  
 # init WebSocket
-conn = tradeapi.stream2.StreamConn(
-    base_url=base_url, data_url=data_url, data_stream='alpacadatav1'
+conn = tradeapi.Stream(
+    base_url=base_url, key_id=API_KEY, secret_key=SECRET_KEY
 )
 
 def wait_for_market_open():
@@ -29,18 +29,5 @@ def wait_for_market_open():
 # define websocket callbacks
 data_df = None
  
-@conn.on(r'^T.ENZL$')
-async def on_second_bars_EWN(conn, channel, bar):
-    if data_df is not None:
-        data_df.enzl[-1] = bar.price
- 
- 
-@conn.on(r'^T.EWA$')
-async def on_second_bars_ENZL(conn, channel, bar):
-    if data_df is not None:
-        data_df.ewa[-1] = bar.price
- 
- 
-streams = ['T.ENZL', 'T.EWA']
-ws_thread = threading.Thread(target=conn.run, daemon=True, args=(streams,))
-ws_thread.start()
+
+conn.run()

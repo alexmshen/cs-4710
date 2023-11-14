@@ -6,15 +6,20 @@ import pandas as pd
 
 base_url = 'https://paper-api.alpaca.markets'
 data_url = 'wss://data.alpaca.markets'
+API_KEY = "PK7IJNU5PF46X2MJCFAB"
+SECRET_KEY = "WbIZu5kHkPUReBnwV3TOZZ7qAVs3vXHaP0qB8ZdC"
 trade_taken = False
 
 # instantiate REST API
-api = tradeapi.REST(base_url=base_url, api_version='v2')
+api = tradeapi.REST(base_url=base_url, key_id=API_KEY, secret_key=SECRET_KEY, api_version='v2')
+
 
 # init WebSocket
 conn = tradeapi.stream.Stream(
     base_url='https://paper-api.alpaca.markets',
-    data_feed='iex'
+    data_feed='iex',
+	key_id=API_KEY,
+	secret_key=SECRET_KEY
 )
 
 
@@ -54,8 +59,8 @@ while True:
 
 	clock = wait_for_market_open()
 
-	ewa = api.get_barset('EWA', 'day', limit=25)
-	enzl = api.get_barset('ENZL', 'day', limit=25)
+	ewa = api.get_bars('EWA')
+	enzl = api.get_bars('ENZL')
 
 	data_df = pd.concat(
 		[ewa.df.EWA.close, enzl.df.ENZL.close],
