@@ -1,4 +1,5 @@
 alpaca-py
+alpaca_trade_api
 lumibot
 matplotlib
 numpy

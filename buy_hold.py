@@ -20,7 +20,7 @@ class BuyHold(Strategy):
 
 
 if __name__ == "__main__":
-    trade = True
+    trade = False
     if trade:
         broker = Alpaca(ALPACA_CONFIG)
         strategy = BuyHold(broker=broker)
