@@ -113,7 +113,7 @@ class StatArb(Strategy):
                 self.sell_all()
 
 if __name__ == "__main__":
-    trade = False
+    trade = True
     if trade:
         broker = Alpaca(ALPACA_CONFIG)
         strategy = StatArb(broker=broker)
