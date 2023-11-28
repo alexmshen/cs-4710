@@ -2,14 +2,16 @@ from alpaca.trading.client import TradingClient
 from alpaca.trading.enums import OrderSide, TimeInForce
 from alpaca.trading.requests import MarketOrderRequest
 from alpaca.trading.stream import TradingStream
+import requests
 import config
+import pandas as pd
 
 client = TradingClient(config.API_KEY, config.SECRET_KEY, paper=True)
 account = dict(client.get_account())
 
 
-for k,v in account.items():
-    print(f"{k:30}{v}")
+# for k,v in account.items():
+#     print(f"{k:30}{v}")
 
 def market_buy(symbol, qty):
     order_details = MarketOrderRequest(
@@ -51,4 +53,18 @@ def show_positions():
 def close_all_positions():
     client.close_all_positions(cancel_orders=True)
 
-market_sell("AAPL", 10)
+def get_historical_data(symbol, start, end, limit, timeframe):
+    api_key = config.API_KEY
+    secret_key = config.SECRET_KEY
+    headers={"APCA-API-KEY-ID": api_key, "APCA-API-SECRET-KEY": secret_key}
+    params={"start": start, "end": end, "limit": limit, "timeframe": timeframe}
+    x = requests.get(config.data_url + f"/stocks/{symbol}/bars", headers=headers, params=params)
+    print(x.status_code)
+    return x.json()
+
+# amzn_json = get_historical_data("AMZN", "2023-03-01", "2023-03-02", 100, "1Min")
+
+# # spy_json = get_historical_data("AMZN", "2021-01-01", "2021-01-02", 100, "1Min")
+# amzn_df = pd.DataFrame(amzn_json['bars'])
+# amzn_df = amzn_df.reindex(columns=['t', 'o', 'h', 'l', 'c', 'v', 'n'])
+# print(amzn_df)

@@ -37,7 +37,7 @@ def create_pairs_dataframe(datadir, symbols):
     sym1 = sym1.reindex(columns=['t', 'o', 'h', 'l', 'c', 'v', 'n'])
     sym1 = sym1.rename(columns={'t': 'datetime', 'o': 'open', 'h': 'high', 'l': 'low', 'c': 'close', 'v': 'volume', 'n': 'na'})
 
-    amzn_json = alpaca_demo.get_historical_data("AMZN", "2023-03-01", "2023-03-02", 1000, "1Min")
+    amzn_json = alpaca_demo.get_historical_data("AMZN", "2023-03-01", "2023-03-10", 1000, "1Min")
     sym2 = pd.DataFrame(amzn_json['bars'])
     sym2 = sym2.reindex(columns=['t', 'o', 'h', 'l', 'c', 'v', 'n'])
     sym2 = sym2.rename(columns={'t': 'datetime', 'o': 'open', 'h': 'high', 'l': 'low', 'c': 'close', 'v': 'volume', 'n': 'na'})
