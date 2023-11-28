@@ -49,21 +49,23 @@ async def on_second_bars_ENZL(conn, channel, bar):
 
 
 # start WebSocket in a thread
+"""
 streams = ['T.ENZL', 'T.EWA']
 ws_thread = threading.Thread(target=conn.run, daemon=True, args=(streams,))
 ws_thread.start()
-
+"""
 
 # main
-while True:
-
-	clock = wait_for_market_open()
-
-	ewa = api.get_bars('EWA')
-	enzl = api.get_bars('ENZL')
+i = 100
+while i > 0:
+	i -= 1
+	sleep(1)
+	# clock = wait_for_market_open()
+	ewa = api.get_bars('EWA', '1Day')
+	enzl = api.get_bars('ENZL', '1Day')
 
 	data_df = pd.concat(
-		[ewa.df.EWA.close, enzl.df.ENZL.close],
+		[ewa.df.close, enzl.df.close],
 		axis=1,
 		join='inner',
 		keys=['ewa', 'enzl'],

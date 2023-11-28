@@ -36,11 +36,13 @@ def create_pairs_dataframe(datadir, symbols):
     sym1 = pd.DataFrame(aapl_json['bars'])
     sym1 = sym1.reindex(columns=['t', 'o', 'h', 'l', 'c', 'v', 'n'])
     sym1 = sym1.rename(columns={'t': 'datetime', 'o': 'open', 'h': 'high', 'l': 'low', 'c': 'close', 'v': 'volume', 'n': 'na'})
+    sym1 = sym1.set_index('datetime')
 
     amzn_json = alpaca_demo.get_historical_data("AMZN", "2023-03-01", "2023-03-10", 1000, "1Min")
     sym2 = pd.DataFrame(amzn_json['bars'])
     sym2 = sym2.reindex(columns=['t', 'o', 'h', 'l', 'c', 'v', 'n'])
     sym2 = sym2.rename(columns={'t': 'datetime', 'o': 'open', 'h': 'high', 'l': 'low', 'c': 'close', 'v': 'volume', 'n': 'na'})
+    sym2 = sym2.set_index('datetime')
 
     # print("Importing CSV data...")
     # col_names = ['datetime','open','high','low','close', 'volume', 'na']
@@ -65,6 +67,7 @@ def create_pairs_dataframe(datadir, symbols):
     pairs['%s_close' % symbols[1].lower()] = sym2['close']
     pairs.index = pd.to_datetime(pairs.index)
     pairs = pairs.dropna()
+    print()
     return pairs
 
 def calculate_spread_zscore(pairs, symbols, lookback=100):
@@ -233,6 +236,7 @@ def create_portfolio_returns(pairs, symbols):
     portfolio['returns'] = (portfolio['returns'] + 1.0).cumprod()
     return portfolio
 
+
 if __name__ == "__main__":
     datadir = '/Users/alexandershen/Desktop/trdalgo/cs-4710/'  # Change this to reflect your data path!
     symbols = ('AAPL', 'AMZN')
@@ -247,7 +251,7 @@ if __name__ == "__main__":
         pairs = create_pairs_dataframe(datadir, symbols)
         pairs = calculate_spread_zscore(pairs, symbols, lookback=lb)
         pairs = create_long_short_market_signals(
-            pairs, symbols, z_entry_threshold=1, z_exit_threshold=.5
+            pairs, symbols, z_entry_threshold=0.7, z_exit_threshold=.2
         )
         portfolio = create_portfolio_returns(pairs, symbols)
         returns.append(portfolio.iloc[-1]['returns'])
@@ -257,16 +261,34 @@ if __name__ == "__main__":
     plt.show()
 
     # This is still within the main function
+    '''
     print("Plotting the performance charts...")
     fig = plt.figure()
 
     ax1 = fig.add_subplot(311,  ylabel='%s growth (%%)' % symbols[0])
     (pairs['%s_close' % symbols[0].lower()].pct_change()+1.0).cumprod().plot(ax=ax1, color='r', lw=2.)
-
+    
     ax2 = fig.add_subplot(312, ylabel='%s growth (%%)' % symbols[1])
     (pairs['%s_close' % symbols[1].lower()].pct_change()+1.0).cumprod().plot(ax=ax2, color='b', lw=2.)
 
     ax3 = fig.add_subplot(313, ylabel='Portfolio value growth (%%)')
     portfolio['returns'].plot(ax=ax3, lw=2.)
 
+    plt.show()
+    ''' 
+    print("Plotting the performance charts...")
+
+    # Create a figure with 2 subplots in a vertical layout
+    fig, (ax1, ax2) = plt.subplots(2, 1, sharex=True)
+
+    # Plot the first two growths on the same graph in the first subplot
+    ax1.set_ylabel('Combined Growth (%%)')
+    (pairs['%s_close' % symbols[0].lower()].pct_change() + 1.0).cumprod().plot(ax=ax1, color='r', lw=2., label='%s growth' % symbols[0])
+    (pairs['%s_close' % symbols[1].lower()].pct_change() + 1.0).cumprod().plot(ax=ax1, color='b', lw=2., label='%s growth' % symbols[1])
+    ax1.legend()
+
+    # Plot the portfolio value growth in the second subplot
+    ax2.set_ylabel('Portfolio value growth (%%)')
+    portfolio['returns'].plot(ax=ax2, lw=2.)
+    print(portfolio.describe())
     plt.show()
