@@ -4,6 +4,7 @@ from alpaca.trading.requests import MarketOrderRequest
 from alpaca.trading.stream import TradingStream
 import alpaca_trade_api as tradeapi
 import yfinance as yf
+import numpy as np
 
 import requests
 import config
@@ -110,9 +111,27 @@ def get_clustering_data():
 def clustering():
     # EDA
     data = pd.read_csv('S&P500_stock_data')
-    pd.set_option('precision', 3)
-    print(data.describe().T.head(10))
+    pd.set_option('display.precision', 3)
+    # print(data.describe().T.head(10))
+
+    print(data.isnull().values.any())
+    data = data.fillna(method='ffill')
+    #Calculate returns and create a data frame
+    returns = data.pct_change().mean()*266
+    returns = pd.DataFrame(returns)
+    returns.columns = ['returns']
+
+    #Calculate the volatility
+    returns['volatility'] = data.pct_change().std()*np.sqrt(266)
+
+    data = returns
+    data.head()
     
+
+
+
+    
+
 
 # amzn_json = get_historical_data("AMZN", "2023-03-01", "2023-03-02", 100, "1Min")
 
